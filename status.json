@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-30T07:38:29.661841Z",
+  "schema_name": "alert",
+  "healthy": false,
+  "sources": [
+    {
+      "id": "berlin-assemblies",
+      "enabled": true,
+      "health": "failing",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": null,
+      "consecutive_failures": 1,
+      "records": 0,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 0,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {},
+      "warnings": [],
+      "baseline_fill_rates": {},
+      "baseline_rejection_rate": null,
+      "records_digest": null,
+      "records_changed_at": null,
+      "error_kind": "bounds_exceeded",
+      "error": "berlin-assemblies: reached the limit of 3 requests",
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
+        "pages": {
+          "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/": "8194fef47062cf6d3e745bc66ace779a7459fca5680503d592bd92731b7b383c"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {
+          "https://www.berlin.de/robots.txt": "berlin-assemblies: reached the limit of 5 requests"
+        }
+      },
+      "recipe": null,
+      "recipe_digest": null
+    },
+    {
+      "id": "police-duesseldorf",
+      "enabled": true,
+      "health": "ok",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
+      "consecutive_failures": 0,
+      "records": 2,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 1,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "warnings": [],
+      "baseline_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "baseline_rejection_rate": 0.0,
+      "records_digest": "48633ac4ab031b482d7cd3175069783a1eedd304b7dbf903caa8ca5be07c68bd",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
+      "error_kind": null,
+      "error": null,
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
+        "pages": {
+          "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
+          "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
+    },
+    {
+      "id": "police-frankfurt",
+      "enabled": true,
+      "health": "ok",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
+      "consecutive_failures": 0,
+      "records": 0,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 1,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {},
+      "warnings": [],
+      "baseline_fill_rates": {},
+      "baseline_rejection_rate": null,
+      "records_digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
+      "error_kind": null,
+      "error": null,
+      "note": "no records, as expected for a seasonal source",
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
+        "pages": {
+          "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
+          "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
+    },
+    {
+      "id": "police-hamburg",
+      "enabled": true,
+      "health": "ok",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
+      "consecutive_failures": 0,
+      "records": 1,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 1,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "warnings": [],
+      "baseline_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "baseline_rejection_rate": 0.0,
+      "records_digest": "7b101586be9cda16ad26ea1501a1867d7b2a1e318eb6a8854a9f45e8f6903588",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
+      "error_kind": null,
+      "error": null,
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
+        "pages": {
+          "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
+          "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
+    },
+    {
+      "id": "police-koeln",
+      "enabled": true,
+      "health": "ok",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
+      "consecutive_failures": 0,
+      "records": 3,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 1,
+      "model_calls": 0,
+      "cost_eur": 0.0,
+      "field_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "warnings": [],
+      "baseline_fill_rates": {
+        "city": 1.0,
+        "kind": 1.0,
+        "published": 1.0,
+        "source_url": 1.0,
+        "title": 1.0
+      },
+      "baseline_rejection_rate": 0.0,
+      "records_digest": "28d0d190591eacf45cf61645aebdd9840735365677a9a00bd7951a1d44c4d874",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
+      "error_kind": null,
+      "error": null,
+      "note": null,
+      "terms": {
+        "reviewed_on": "2026-10-30",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
+        "pages": {
+          "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
+          "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
+        },
+        "changed": [],
+        "changed_at": null,
+        "errors": {}
+      },
+      "recipe": null,
+      "recipe_digest": null
+    }
+  ]
+}

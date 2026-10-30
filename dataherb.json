@@ -1,0 +1,87 @@
+{
+  "spec": "dataherb/v2",
+  "id": "city-anomalies",
+  "name": "alert",
+  "description": "One announced disruption in a big German city that parents should know about before going out.",
+  "classification": "public",
+  "update_frequency": "P1D",
+  "status_job": "city-anomalies",
+  "source": "git",
+  "uri": "https://github.com/spikinglabs/city-anomalies",
+  "datapackage": {
+    "resources": [
+      {
+        "name": "records",
+        "path": "exports/records.jsonl",
+        "format": "ndjson",
+        "mediatype": "application/x-ndjson",
+        "rows": 6,
+        "bytes": 3328,
+        "schema": {
+          "fields": [
+            {
+              "name": "id",
+              "type": "string",
+              "description": "Stable record id."
+            },
+            {
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "name": "source_url",
+              "type": "string"
+            },
+            {
+              "name": "city",
+              "type": "string"
+            },
+            {
+              "name": "kind",
+              "type": "string",
+              "description": "assembly = a registered demonstration or march from an official list; police_notice = a police press release about demos, big operations, evacuations or closures; transit = a transit operator's notice; strike = a strike notice."
+            },
+            {
+              "name": "published",
+              "type": "datetime",
+              "description": "When the source published it. Old press releases are out of scope."
+            },
+            {
+              "name": "start_date",
+              "type": "date",
+              "description": "The day it happens, when the source says so."
+            },
+            {
+              "name": "start_time",
+              "type": "string"
+            },
+            {
+              "name": "end_time",
+              "type": "string"
+            },
+            {
+              "name": "place",
+              "type": "string",
+              "description": "Where people gather (Versammlungsort)."
+            },
+            {
+              "name": "postcode",
+              "type": "string"
+            },
+            {
+              "name": "route",
+              "type": "string",
+              "description": "The march route (Aufzugsstrecke), when there is one; a march disrupts much more than a standing rally."
+            },
+            {
+              "name": "_source",
+              "type": "object",
+              "description": "Provenance: source_id, url, retrieved_at, mode, attribution."
+            }
+          ],
+          "primaryKey": "id"
+        }
+      }
+    ]
+  }
+}

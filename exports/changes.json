@@ -1,0 +1,151 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "alert: changes",
+  "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
+  "items": [
+    {
+      "id": "rec_2779e3d82400bfd448f1:added:2026-10-30T07:38:29.660422+00:00",
+      "title": "Added: POL-K: 261019-4-LEV Demonstrationen gegen politische Saalveranstaltung in Leverkusen - größere Verkehrsstörungen erwartet / https://www.presseportal.de/blaulicht/pm/12415/6374181",
+      "date_published": "2026-10-30T07:38:29.660422+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_2779e3d82400bfd448f1",
+          "title": "POL-K: 261019-4-LEV Demonstrationen gegen politische Saalveranstaltung in Leverkusen - größere Verkehrsstörungen erwartet",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6374181",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-10-19T17:00:02+02:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-10-30T07:38:29.656893+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:29.656893+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_969052abc5599f6c0548:added:2026-10-30T07:38:29.660422+00:00",
+      "title": "Added: POL-K: 261028-1-K/BAB/DN Aktueller Einsatz - Schwerer Verkehrsunfall auf der A4 - Richtungsfahrbahn gesperrt / https://www.presseportal.de/blaulicht/pm/12415/6379568",
+      "date_published": "2026-10-30T07:38:29.660422+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_969052abc5599f6c0548",
+          "title": "POL-K: 261028-1-K/BAB/DN Aktueller Einsatz - Schwerer Verkehrsunfall auf der A4 - Richtungsfahrbahn gesperrt",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6379568",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-10-28T12:20:18+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-10-30T07:38:29.656893+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:29.656893+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_c379c394859a5f7f7724:added:2026-10-30T07:38:29.660422+00:00",
+      "title": "Added: POL-K: 261029-1-K Polizei bereitet sich an Halloween auf Großeinsatz vor / https://www.presseportal.de/blaulicht/pm/12415/6380349",
+      "date_published": "2026-10-30T07:38:29.660422+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_c379c394859a5f7f7724",
+          "title": "POL-K: 261029-1-K Polizei bereitet sich an Halloween auf Großeinsatz vor",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6380349",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-10-29T13:30:26+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-10-30T07:38:29.656893+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:29.656893+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_446524d203c58c07a501:added:2026-10-30T07:38:27.325896+00:00",
+      "title": "Added: POL-HH: 261029-4. Verkehrshinweis und Erreichbarkeit der Polizeipressestelle für den kommenden Samstag / https://www.presseportal.de/blaulicht/pm/6337/6380582",
+      "date_published": "2026-10-30T07:38:27.325896+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_446524d203c58c07a501",
+          "title": "POL-HH: 261029-4. Verkehrshinweis und Erreichbarkeit der Polizeipressestelle für den kommenden Samstag",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/6337/6380582",
+          "city": "Hamburg",
+          "kind": "police_notice",
+          "published": "2026-10-29T16:37:16+01:00",
+          "_source": {
+            "source_id": "police-hamburg",
+            "url": "https://www.presseportal.de/rss/dienststelle_6337.rss2",
+            "retrieved_at": "2026-10-30T07:38:27.322095+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:27.322095+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_6337.rss2"
+    },
+    {
+      "id": "rec_ddfdc3eb941f7e7f87bc:added:2026-10-30T07:38:22.625716+00:00",
+      "title": "Added: POL-D: Rees - A 3 Richtung Arnheim - Parkplatz Helderloh - Schwerer Verkehrsunfall - Pkw prallt auf absichernden Streifenwagen - Eine Person schwer verletzt - Sperrung dauert aktuell noch an / https://www.presseportal.de/blaulicht/pm/13248/6377429",
+      "date_published": "2026-10-30T07:38:22.625716+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_ddfdc3eb941f7e7f87bc",
+          "title": "POL-D: Rees - A 3 Richtung Arnheim - Parkplatz Helderloh - Schwerer Verkehrsunfall - Pkw prallt auf absichernden Streifenwagen - Eine Person schwer verletzt - Sperrung dauert aktuell noch an",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/13248/6377429",
+          "city": "Düsseldorf",
+          "kind": "police_notice",
+          "published": "2026-10-25T16:15:57+01:00",
+          "_source": {
+            "source_id": "police-duesseldorf",
+            "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2",
+            "retrieved_at": "2026-10-30T07:38:22.620108+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:22.620108+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2"
+    },
+    {
+      "id": "rec_9aaa900a8d5247bfe6a6:added:2026-10-30T07:38:22.625716+00:00",
+      "title": "Added: POL-D: Stadtmitte: Demonstrationen in der Düsseldorfer Innenstadt - Polizei mit zahlreichen Kräften im Einsatz / https://www.presseportal.de/blaulicht/pm/13248/6380409",
+      "date_published": "2026-10-30T07:38:22.625716+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_9aaa900a8d5247bfe6a6",
+          "title": "POL-D: Stadtmitte: Demonstrationen in der Düsseldorfer Innenstadt - Polizei mit zahlreichen Kräften im Einsatz",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/13248/6380409",
+          "city": "Düsseldorf",
+          "kind": "police_notice",
+          "published": "2026-10-29T14:10:05+01:00",
+          "_source": {
+            "source_id": "police-duesseldorf",
+            "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2",
+            "retrieved_at": "2026-10-30T07:38:22.620108+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-30T07:38:22.620108+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2"
+    }
+  ]
+}
