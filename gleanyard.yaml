@@ -1,0 +1,7 @@
+# Project settings; every key is optional. See https://kausalflow.github.io/gleanyard/
+schema_version: 1
+user_agent: "city-anomalies (+https://github.com/spikinglabs/city-anomalies)"   # say who you are; add a contact URL
+excluded_hosts: []        # hosts research must not propose
+dataherb:                 # list this project in a DataHerb catalog (https://dataherb.github.io); delete to turn off
+  id: "city-anomalies"
+  expected_interval: P1D  # how often collect runs; the catalog flags the data as stale after this

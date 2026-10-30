@@ -1,0 +1,13 @@
+{
+  "name": "Berlin assemblies",
+  "baseSelector": "#searchresults-table tbody tr",
+  "fields": [
+    {"name": "start_date", "selector": "td[headers='Datum']", "type": "text"},
+    {"name": "start_time", "selector": "td[headers='Von']", "type": "text"},
+    {"name": "end_time", "selector": "td[headers='Bis']", "type": "text"},
+    {"name": "title", "selector": "td[headers='Thema']", "type": "text"},
+    {"name": "postcode", "selector": "td[headers='PLZ']", "type": "text"},
+    {"name": "place", "selector": "td[headers='Versammlungsort']", "type": "text"},
+    {"name": "route", "selector": "td[headers='Aufzugsstrecke']", "type": "text"}
+  ]
+}

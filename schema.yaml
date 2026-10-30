@@ -1,0 +1,57 @@
+# One rare event in a big city that parents should know about before they go out:
+# a demonstration or march, a large police operation, a bomb defusal with evacuation,
+# a transit strike, or a closure of roads or lines in the centre.
+name: alert
+version: 1
+description: One announced disruption in a big German city that parents should know about before going out.
+identity: [title, source_url, start_date, start_time]
+fields:
+  title:
+    type: string
+    required: true
+    max_length: 1500
+    aliases: [title, Thema, SUMMARY, name, headline]
+  source_url:
+    type: url
+    required: true
+    aliases: [link, URL, url]
+  city:
+    type: string
+    required: true
+    scope: {enum: [Köln, Berlin, München, Hamburg, Frankfurt am Main, Düsseldorf]}
+  kind:
+    type: string
+    required: true
+    description: >-
+      assembly = a registered demonstration or march from an official list;
+      police_notice = a police press release about demos, big operations, evacuations or closures;
+      transit = a transit operator's notice; strike = a strike notice.
+    scope: {enum: [assembly, police_notice, transit, strike]}
+  published:
+    type: datetime
+    description: When the source published it. Old press releases are out of scope.
+    scope: {min: today-14}
+    aliases: [pubDate, published, updated]
+  start_date:
+    type: date
+    description: The day it happens, when the source says so.
+    scope: {min: today-1, max: today+400}
+    aliases: [Datum, DTSTART]
+  start_time:
+    type: time_text
+    aliases: [Von]
+  end_time:
+    type: time_text
+    aliases: [Bis]
+  place:
+    type: string
+    description: Where people gather (Versammlungsort).
+    aliases: [Versammlungsort]
+  postcode:
+    type: postcode
+    country: DE
+    aliases: [PLZ]
+  route:
+    type: text
+    description: The march route (Aufzugsstrecke), when there is one; a march disrupts much more than a standing rally.
+    aliases: [Aufzugsstrecke]

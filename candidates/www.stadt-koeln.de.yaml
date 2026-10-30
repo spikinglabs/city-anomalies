@@ -1,0 +1,4 @@
+url: https://www.stadt-koeln.de/leben-in-koeln/verkehr/verkehrskalender/
+why: Köln traffic calendar; lists demonstrations with route and closures (for example 'Demonstration' on 19.09.2026), 134 entries mostly roadworks.
+probe: html; paged list, selectors
+legal_pages: []

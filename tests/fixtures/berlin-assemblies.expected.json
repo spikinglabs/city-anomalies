@@ -1,0 +1,80 @@
+{
+  "records": {
+    "rec_1e667b6505c5e9f30968": {
+      "city": "Berlin",
+      "end_time": "14:30",
+      "kind": "assembly",
+      "postcode": "10117",
+      "route": "Margot-Friedländer-Platz (AK- Abgeordnetenhaus Berlin) - Niederkirchnerstr. - Stresemannstr. - Potsdamer Platz - Potsdamer Platz/B1- Schöneberger Ufer - Kluckstr. - Magdeburger Platz (EK- Arbeitsgericht)",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "09:00",
+      "title": "Für eine gute soziale Infrastruktur und eine sichere Gesundheitsvers- orgung in unserer Stadt - für gute Tarifverträge und vollumfängliche Refinanzierung in Berlin!"
+    },
+    "rec_20b4dd60da5dd5e65af4": {
+      "city": "Berlin",
+      "end_time": "13:00",
+      "kind": "assembly",
+      "place": "Jannowitzbrücke",
+      "postcode": "10179",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "10:30",
+      "title": "Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)"
+    },
+    "rec_2206779fdfe52402b705": {
+      "city": "Berlin",
+      "end_time": "23:59",
+      "kind": "assembly",
+      "place": "Platz der Republik 1",
+      "postcode": "10557",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "00:00",
+      "title": "Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich)"
+    },
+    "rec_36fed873b0202707926b": {
+      "city": "Berlin",
+      "end_time": "18:30",
+      "kind": "assembly",
+      "route": "Möckernstr. 47 (AP- vor dem ADFC-Velokiez) - Möckernstr. - Tempelhofer Ufer - Waterloo-Ufer - Zossener Brücke - Zossener Str. - Lindenstr. - Axel-Springer-Str. - Leipziger Str. - Spittelmarkt - Neue Gertraudenbrücke - Gertraudenstr. - Mühlendamm - Mühlendammbrücke - Mühlendamm - Spandauer Str. - Grunerstr. - Alexanderstr. - Otto-Braun-Str. - Greifswalder Str. - Berliner Allee - Indira-Gandhi-Str. - Hansastr. - Hansastr. 40 (EK - an der Unfallstelle mit Geisterradaufstellung)",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-30",
+      "start_time": "16:30",
+      "title": "#VisionZero - Fahrraddemonstration und Mahnwache zum Gedenken an einen tödlich verunglückten Radfahrer"
+    },
+    "rec_bc23641a50d219ee02c7": {
+      "city": "Berlin",
+      "end_time": "17:00",
+      "kind": "assembly",
+      "route": "Ollenhauerstraße 122 - Ollenhauerstraße - Oranienburger Str. - Alt-Wittenau - Eichborndamm - Rathaus Reinickendorf",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "15:30",
+      "title": "Keinen Luxus-Straßen-Neubau der Ollenhauerstraße! Keine Fällung der 116 Straßenbäume! Finger weg von dem Radfahrstreifen! Planun- gs-Stopp sofort!"
+    },
+    "rec_cee8904c32a4df0d8ce2": {
+      "city": "Berlin",
+      "end_time": "16:30",
+      "kind": "assembly",
+      "place": "Luisenstr. 65",
+      "postcode": "10117",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "05:30",
+      "title": "Kundgebung zum Warnstreik am 29.10.26"
+    },
+    "rec_f7b199c8afcebd11abbd": {
+      "city": "Berlin",
+      "end_time": "21:00",
+      "kind": "assembly",
+      "postcode": "10629",
+      "route": "Breitscheidplatz (südl. Seite vor Huawei) - Kurfürstendamm - Adenauerplatz",
+      "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+      "start_date": "2026-10-29",
+      "start_time": "18:30",
+      "title": "Gedenken an die Staatsgründung der Republik Türkei durch Atatürk Für Frauenrechte, Säkularismus und den Erhalt der demokratischen Reformen"
+    }
+  },
+  "today": "2026-10-30"
+}

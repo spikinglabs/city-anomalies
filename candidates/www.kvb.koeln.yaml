@@ -1,0 +1,4 @@
+url: https://www.kvb.koeln/fahrtinfo/betriebslage/
+why: KVB service status for Köln; it posted 'Demonstration im Innenstadtbereich am 31.10.26' with the lines affected.
+probe: html; no feed found yet, selectors likely
+legal_pages: []

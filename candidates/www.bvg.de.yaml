@@ -1,0 +1,4 @@
+url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen
+why: BVG disruptions in Berlin, including strikes and demo diversions.
+probe: html; check for a JSON API behind the page
+legal_pages: []

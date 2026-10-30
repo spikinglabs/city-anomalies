@@ -1,0 +1,25 @@
+id: police-frankfurt
+name: Polizeipräsidium Frankfurt am Main (Presseportal)
+schema: alert
+enabled: false
+delivery: rss
+url: https://www.presseportal.de/rss/dienststelle_4970.rss2
+reader:
+  # The feed carries every release; keep only demos, big operations, closures, strikes and
+  # bomb defusals. Others are skipped before extraction, so they are never stored.
+  include: "(?i)versammlung|demonstration|\\bdemos?\\b|aufzug|kundgebung|protest|großeinsatz|großlage|sperrung|gesperrt|umleitung|streik|evakuier|blindgänger|entschärf|bombe|großveranstaltung"
+homepage: https://www.presseportal.de/blaulicht/nr/4970
+extract:
+  mode: fields
+  map: {title: title, source_url: link, published: pubDate}
+  defaults: {city: "Frankfurt am Main", kind: police_notice}
+fetch: {max_requests: 3, delay_seconds: 2}
+expect_empty: seasonal   # most days no press release is about a demo or a closure
+coverage: {country: DE, city: "Frankfurt am Main", scope_type: municipality, scope_name: "Frankfurt am Main"}
+evidence: presseportal
+rights:
+  review_status: pending
+  effective_tier: link_only
+  allowed_actions: {private_store: true, normalize: true}
+  notes: See evidence/presseportal. Editorial use is free; embedding in other sites needs an application to news aktuell.
+retention: {raw_days: 14}

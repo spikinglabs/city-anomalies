@@ -1,0 +1,23 @@
+id: berlin-assemblies
+name: Versammlungen und Aufzüge im Land Berlin (Polizei Berlin, Versammlungsbehörde)
+schema: alert
+enabled: false
+delivery: html
+url: https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/
+extract:
+  mode: selectors
+  selectors: mappings/berlin-assemblies.json
+  defaults:
+    city: Berlin
+    kind: assembly
+    source_url: https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/
+fetch: {max_requests: 3, delay_seconds: 2}
+expect_empty: never
+expect_change_days: 3   # the page is updated twice a day
+coverage: {country: DE, city: Berlin, scope_type: municipality, scope_name: Berlin}
+rights:
+  review_status: pending
+  effective_tier: facts_only
+  allowed_actions: {private_store: true, normalize: true}
+  notes: See evidence/berlin-assemblies. An official list the police publish for the public.
+retention: {raw_days: 14}
