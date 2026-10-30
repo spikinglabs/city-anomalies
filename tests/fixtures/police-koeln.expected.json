@@ -1,0 +1,26 @@
+{
+  "records": {
+    "rec_2779e3d82400bfd448f1": {
+      "city": "Köln",
+      "kind": "police_notice",
+      "published": "2026-10-19T17:00:02+02:00",
+      "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6374181",
+      "title": "POL-K: 261019-4-LEV Demonstrationen gegen politische Saalveranstaltung in Leverkusen - größere Verkehrsstörungen erwartet"
+    },
+    "rec_969052abc5599f6c0548": {
+      "city": "Köln",
+      "kind": "police_notice",
+      "published": "2026-10-28T12:20:18+01:00",
+      "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6379568",
+      "title": "POL-K: 261028-1-K/BAB/DN Aktueller Einsatz - Schwerer Verkehrsunfall auf der A4 - Richtungsfahrbahn gesperrt"
+    },
+    "rec_c379c394859a5f7f7724": {
+      "city": "Köln",
+      "kind": "police_notice",
+      "published": "2026-10-29T13:30:26+01:00",
+      "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6380349",
+      "title": "POL-K: 261029-1-K Polizei bereitet sich an Halloween auf Großeinsatz vor"
+    }
+  },
+  "today": "2026-10-30"
+}

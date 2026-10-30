@@ -1,0 +1,4 @@
+url: https://www.mvg.de/dienste/betriebsaenderungen.html
+why: MVG service changes in München; Munich has no public assembly list (KVR does not publish one) and its police are not on Presseportal.
+probe: html; check for a JSON API behind the page
+legal_pages: []

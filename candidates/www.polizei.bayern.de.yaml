@@ -1,0 +1,4 @@
+url: https://www.polizei.bayern.de/aktuelles/pressemitteilungen/index.html
+why: Bavarian police press releases, the München source for demos and big operations.
+probe: html; filter to Polizeipräsidium München
+legal_pages: []

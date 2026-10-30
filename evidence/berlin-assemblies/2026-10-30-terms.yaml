@@ -1,0 +1,15 @@
+source: berlin-assemblies
+read_at: 2026-10-30
+pages:
+  - url: https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/
+    quote: Hier finden Sie die angezeigten Versammlungen und Aufzüge im Land Berlin. Diese Seite wird zweimal täglich aktualisiert.
+  - url: https://www.berlin.de/robots.txt
+    quote: >-
+      Any automated program to retrieve information from our public websites is only allowed
+      subject to the following restrictions: It must clearly and uniquely identify itself in the
+      HTTP User-Agent header. [...] it must be fully compliant with the Robots Exclusion Protocol.
+reading: >-
+  The police publish this list for the public. Automated access is allowed with an identifying
+  user agent (gleanyard.yaml sets one with the repo URL) and robots.txt, which does not disallow
+  /polizei/service/ for generic agents. Dates, places and routes are facts; one request per run.
+suggested_tier: facts_only
