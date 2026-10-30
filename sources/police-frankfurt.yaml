@@ -1,7 +1,7 @@
 id: police-frankfurt
 name: Polizeipräsidium Frankfurt am Main (Presseportal)
 schema: alert
-enabled: false
+enabled: true
 delivery: rss
 url: https://www.presseportal.de/rss/dienststelle_4970.rss2
 reader:
@@ -18,8 +18,26 @@ expect_empty: seasonal   # most days no press release is about a demo or a closu
 coverage: {country: DE, city: "Frankfurt am Main", scope_type: municipality, scope_name: "Frankfurt am Main"}
 evidence: presseportal
 rights:
-  review_status: pending
-  effective_tier: link_only
-  allowed_actions: {private_store: true, normalize: true}
-  notes: See evidence/presseportal. Editorial use is free; embedding in other sites needs an application to news aktuell.
+  review_status: approved
+  effective_tier: facts_only
+  allowed_actions:
+    discover_urls: true
+    private_store: true
+    normalize: true
+    redistribute_facts: true
+  public_fields:
+  - title
+  - source_url
+  - city
+  - kind
+  - published
+  - start_date
+  - start_time
+  - end_time
+  - place
+  - postcode
+  - route
+  reviewed_at: 2026-10-30
+  notes: See evidence/presseportal. Editorial use is free; embedding in other sites needs an application
+    to news aktuell. Owner (L) approved facts_only collection 2026-10-30.
 retention: {raw_days: 14}

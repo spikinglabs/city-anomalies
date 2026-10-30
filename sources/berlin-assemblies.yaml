@@ -1,7 +1,7 @@
 id: berlin-assemblies
 name: Versammlungen und Aufzüge im Land Berlin (Polizei Berlin, Versammlungsbehörde)
 schema: alert
-enabled: false
+enabled: true
 delivery: html
 url: https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/
 extract:
@@ -16,8 +16,26 @@ expect_empty: never
 expect_change_days: 3   # the page is updated twice a day
 coverage: {country: DE, city: Berlin, scope_type: municipality, scope_name: Berlin}
 rights:
-  review_status: pending
+  review_status: approved
   effective_tier: facts_only
-  allowed_actions: {private_store: true, normalize: true}
-  notes: See evidence/berlin-assemblies. An official list the police publish for the public.
+  allowed_actions:
+    discover_urls: true
+    private_store: true
+    normalize: true
+    redistribute_facts: true
+  public_fields:
+  - title
+  - source_url
+  - city
+  - kind
+  - published
+  - start_date
+  - start_time
+  - end_time
+  - place
+  - postcode
+  - route
+  reviewed_at: 2026-10-30
+  notes: See evidence/berlin-assemblies. An official list the police publish for the public. Owner (L)
+    approved facts_only collection 2026-10-30.
 retention: {raw_days: 14}
