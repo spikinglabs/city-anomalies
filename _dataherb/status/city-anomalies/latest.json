@@ -8,41 +8,41 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "41194615035-1",
+    "id": "41303529555-1",
     "status": "success",
-    "started_at": "2026-10-31T10:54:26Z",
-    "finished_at": "2026-10-31T10:54:40Z",
-    "duration_seconds": 13.722,
+    "started_at": "2026-11-01T11:48:52Z",
+    "finished_at": "2026-11-01T11:49:04Z",
+    "duration_seconds": 11.973,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41194615035"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41303529555"
   },
   "last_success": {
-    "id": "41194615035-1",
+    "id": "41303529555-1",
     "status": "success",
-    "started_at": "2026-10-31T10:54:26Z",
-    "finished_at": "2026-10-31T10:54:40Z",
-    "duration_seconds": 13.722,
+    "started_at": "2026-11-01T11:48:52Z",
+    "finished_at": "2026-11-01T11:49:04Z",
+    "duration_seconds": 11.973,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41194615035"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41303529555"
   },
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 1031
+      "rows": 1021
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
       "status": "pass",
-      "value": 1024
+      "value": 1010
     },
     {
       "name": "police-duesseldorf",
       "status": "pass",
-      "value": 2
+      "value": 4
     },
     {
       "name": "police-frankfurt",
@@ -52,20 +52,20 @@
     {
       "name": "police-hamburg",
       "status": "pass",
-      "value": 1
+      "value": 2
     },
     {
       "name": "police-koeln",
       "status": "pass",
-      "value": 3
+      "value": 4
     }
   ],
   "metrics": {
     "sources": 5,
     "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 1031,
-    "rejections": 39,
+    "records": 1021,
+    "rejections": 53,
     "pages": 5,
     "model_calls": 0,
     "cost_eur": 0.0
@@ -74,5 +74,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-10-31T10:54:40Z"
+  "written_at": "2026-11-01T11:49:04Z"
 }
