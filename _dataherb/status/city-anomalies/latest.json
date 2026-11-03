@@ -8,42 +8,36 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "41453112261-1",
-    "status": "partial",
-    "started_at": "2026-11-02T13:27:30Z",
-    "finished_at": "2026-11-02T13:27:45Z",
-    "duration_seconds": 14.495,
+    "id": "41638496625-1",
+    "status": "success",
+    "started_at": "2026-11-03T12:46:23Z",
+    "finished_at": "2026-11-03T12:46:35Z",
+    "duration_seconds": 12.0,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41453112261",
-    "message": "1 of 5 sources failed",
-    "error": {
-      "type": "bounds_exceeded",
-      "message": "berlin-assemblies: berlin-assemblies: reached the limit of 3 requests"
-    }
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41638496625"
   },
   "last_success": {
-    "id": "41303529555-1",
+    "id": "41638496625-1",
     "status": "success",
-    "started_at": "2026-11-01T11:48:52Z",
-    "finished_at": "2026-11-01T11:49:04Z",
-    "duration_seconds": 11.973,
+    "started_at": "2026-11-03T12:46:23Z",
+    "finished_at": "2026-11-03T12:46:35Z",
+    "duration_seconds": 12.0,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41303529555"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/41638496625"
   },
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 1021
+      "rows": 968
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
-      "status": "fail",
-      "value": 1010,
-      "message": "failing: berlin-assemblies: reached the limit of 3 requests"
+      "status": "pass",
+      "value": 957
     },
     {
       "name": "police-duesseldorf",
@@ -68,11 +62,11 @@
   ],
   "metrics": {
     "sources": 5,
-    "sources_failing": 1,
+    "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 11,
-    "rejections": 0,
-    "pages": 4,
+    "records": 968,
+    "rejections": 106,
+    "pages": 5,
     "model_calls": 0,
     "cost_eur": 0.0
   },
@@ -80,5 +74,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-11-02T13:27:45Z"
+  "written_at": "2026-11-03T12:46:35Z"
 }
