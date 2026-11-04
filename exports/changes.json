@@ -4,6 +4,30 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_9f759e55ef71c15d3913:removed:2026-11-04T12:58:06.407285+00:00",
+      "title": "Removed: POL-F: 261030 - 1359 Frankfurt: Diverse Versammlungen am 31.10.2026 im Frankfurter Stadtgebiet - Pressehotline am Einsatztag / https://www.presseportal.de/blaulicht/pm/4970/6380844",
+      "date_published": "2026-11-04T12:58:06.407285+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_9f759e55ef71c15d3913",
+          "title": "POL-F: 261030 - 1359 Frankfurt: Diverse Versammlungen am 31.10.2026 im Frankfurter Stadtgebiet - Pressehotline am Einsatztag",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/4970/6380844",
+          "city": "Frankfurt am Main",
+          "kind": "police_notice",
+          "published": "2026-10-30T10:00:51+01:00",
+          "_source": {
+            "source_id": "police-frankfurt",
+            "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2",
+            "retrieved_at": "2026-11-03T12:46:31.182123+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:54:35.043560+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2"
+    },
+    {
       "id": "rec_d81b4e0884742f7e5a03:removed:2026-11-03T12:46:26.626758+00:00",
       "title": "Removed: Lichterkette für Respekt Toleranz und Vielfalt in Blankenburg - Unser Dorf bleibt bunt (vom 06.09.2026 bis 27.06.2027 - jeweils So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-01 / 18:00",
       "date_published": "2026-11-03T12:46:26.626758+00:00",
@@ -13771,34 +13795,6 @@
           "end_time": "23:59",
           "place": "Platz der Republik 1",
           "postcode": "10557",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_3bf6e8d27bb25d2a6450:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Öffentliche Forderung nach der Wiedereröffnung der am 24. Juli 2024 geschlossenen Gotteshäuser in Deutschland und Kritik an staatlichen Maßnahmen, die zu deren Schließung geführt haben, begleitet von gemeinsamen Gebeten (Duʿāʾ), einschließlich des Duʿāʾ Kumayl (vom 01.10. bis 31.12.2026 - jeweils Do.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-17 / 18:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_3bf6e8d27bb25d2a6450",
-          "title": "Öffentliche Forderung nach der Wiedereröffnung der am 24. Juli 2024 geschlossenen Gotteshäuser in Deutschland und Kritik an staatlichen Maßnahmen, die zu deren Schließung geführt haben, begleitet von gemeinsamen Gebeten (Duʿāʾ), einschließlich des Duʿāʾ Kumayl (vom 01.10. bis 31.12.2026 - jeweils Do.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-17",
-          "start_time": "18:00",
-          "end_time": "19:00",
-          "place": "Ordensmeisterstr. 5",
-          "postcode": "12099",
           "_source": {
             "source_id": "berlin-assemblies",
             "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
