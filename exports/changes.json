@@ -4,6 +4,469 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_c379c394859a5f7f7724:removed:2026-11-08T11:54:48.077127+00:00",
+      "title": "Removed: POL-K: 261029-1-K Polizei bereitet sich an Halloween auf Großeinsatz vor / https://www.presseportal.de/blaulicht/pm/12415/6380349",
+      "date_published": "2026-11-08T11:54:48.077127+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_c379c394859a5f7f7724",
+          "title": "POL-K: 261029-1-K Polizei bereitet sich an Halloween auf Großeinsatz vor",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6380349",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-10-29T13:30:26+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-07T11:42:46.751393+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:54:40.021987+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_14098fdb19533a6e37ea:added:2026-11-08T11:54:43.035676+00:00",
+      "title": "Added: POL-F: 261108 - 1401 Frankfurt - A661: Sperrung nach Unfall / https://www.presseportal.de/blaulicht/pm/4970/6386185",
+      "date_published": "2026-11-08T11:54:43.035676+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_14098fdb19533a6e37ea",
+          "title": "POL-F: 261108 - 1401 Frankfurt - A661: Sperrung nach Unfall",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/4970/6386185",
+          "city": "Frankfurt am Main",
+          "kind": "police_notice",
+          "published": "2026-11-08T10:36:39+01:00",
+          "_source": {
+            "source_id": "police-frankfurt",
+            "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2",
+            "retrieved_at": "2026-11-08T11:54:43.031456+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-08T11:54:43.031456+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2"
+    },
+    {
+      "id": "rec_ddfdc3eb941f7e7f87bc:removed:2026-11-08T11:54:40.681132+00:00",
+      "title": "Removed: POL-D: Rees - A 3 Richtung Arnheim - Parkplatz Helderloh - Schwerer Verkehrsunfall - Pkw prallt auf absichernden Streifenwagen - Eine Person schwer verletzt - Sperrung dauert aktuell noch an / https://www.presseportal.de/blaulicht/pm/13248/6377429",
+      "date_published": "2026-11-08T11:54:40.681132+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_ddfdc3eb941f7e7f87bc",
+          "title": "POL-D: Rees - A 3 Richtung Arnheim - Parkplatz Helderloh - Schwerer Verkehrsunfall - Pkw prallt auf absichernden Streifenwagen - Eine Person schwer verletzt - Sperrung dauert aktuell noch an",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/13248/6377429",
+          "city": "Düsseldorf",
+          "kind": "police_notice",
+          "published": "2026-10-25T16:15:57+01:00",
+          "_source": {
+            "source_id": "police-duesseldorf",
+            "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2",
+            "retrieved_at": "2026-11-07T11:42:39.272408+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:54:32.578117+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2"
+    },
+    {
+      "id": "rec_375c9076a8a6c275c4b1:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Brückenleuchten / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 18:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_375c9076a8a6c275c4b1",
+          "title": "Brückenleuchten",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "18:00",
+          "end_time": "22:00",
+          "place": "Hobrechtsfelder Chaussee",
+          "postcode": "13125",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_6564c5d8316381598f1c:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Solidarisch gegen Antisemitismus. Mahnwache zum Schutz jüdischen Lebens. (vom 30.10.2026 bis 26.03.2027 - jeweils Fr.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 17:30",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_6564c5d8316381598f1c",
+          "title": "Solidarisch gegen Antisemitismus. Mahnwache zum Schutz jüdischen Lebens. (vom 30.10.2026 bis 26.03.2027 - jeweils Fr.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "17:30",
+          "end_time": "19:00",
+          "place": "Fraenkelufer 10",
+          "postcode": "10999",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_c902b046b148ffa42bbd:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Für ein Ende des Genozids in Gaza, für ein Ende des Siedlerterrors und des Siedlungsbaus im Westjordanland, gegen die Folter an palästinensischen Gefangenen und gegen die Todesstrafe, Stopp aller militärischen Kooperation mit Israel, Schutz von Wissenschafts-, Meinungs-, Versammlungs- freiheit. (vom 04.09. bis 18.12.2026 - jeweils Fr.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 17:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_c902b046b148ffa42bbd",
+          "title": "Für ein Ende des Genozids in Gaza, für ein Ende des Siedlerterrors und des Siedlungsbaus im Westjordanland, gegen die Folter an palästinensischen Gefangenen und gegen die Todesstrafe, Stopp aller militärischen Kooperation mit Israel, Schutz von Wissenschafts-, Meinungs-, Versammlungs- freiheit. (vom 04.09. bis 18.12.2026 - jeweils Fr.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "17:00",
+          "end_time": "18:15",
+          "place": "Blücherplatz 1",
+          "postcode": "10961",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_4e9420ddef494714eeb1:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Schluss mit EU-Saktionen gegen Journalisten! / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 17:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_4e9420ddef494714eeb1",
+          "title": "Schluss mit EU-Saktionen gegen Journalisten!",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "17:00",
+          "end_time": "18:00",
+          "place": "Pariser Platz",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_45988db34262da7cc740:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Russisches Haus schließen! - Keine Indoktrinierung mehr von Kindern und Jugendlichen- Schluß mit der illegalen Kameraüberwachung durch den russ. Staat - Keine Rekrutierung mehr von Wegwerfagenten und Beherbergung von Spionen - Durchsetzung der EU-Sanktionen zur Schließung des Russ. Hauses - Verhinderung der Aufstachelung der russ. Community - Wir fordern die Bundesregierung auf, die Staatsverträge zur Betreibung des Russ. Hauses regulär zum 06.12.2026 zu kündigen und nicht weiter zu verlängern. Zum Schutz der Demokratie und Freiheit in Europa keine Plattform mehr für russische Soft Power und staatliche Propaganda in Berlin. (vom 13.07. bis 06.12.2026 - jeweils Mo.,Di.,Mi.,Do.,Fr.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 16:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_45988db34262da7cc740",
+          "title": "Russisches Haus schließen! - Keine Indoktrinierung mehr von Kindern und Jugendlichen- Schluß mit der illegalen Kameraüberwachung durch den russ. Staat - Keine Rekrutierung mehr von Wegwerfagenten und Beherbergung von Spionen - Durchsetzung der EU-Sanktionen zur Schließung des Russ. Hauses - Verhinderung der Aufstachelung der russ. Community - Wir fordern die Bundesregierung auf, die Staatsverträge zur Betreibung des Russ. Hauses regulär zum 06.12.2026 zu kündigen und nicht weiter zu verlängern. Zum Schutz der Demokratie und Freiheit in Europa keine Plattform mehr für russische Soft Power und staatliche Propaganda in Berlin. (vom 13.07. bis 06.12.2026 - jeweils Mo.,Di.,Mi.,Do.,Fr.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "16:00",
+          "end_time": "19:00",
+          "place": "Friedrichstr. 176-179",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_b294f5b0aa5ec238fbf2:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Mahnwache gegen rechtsextremistische Tendenzen in Politik und Gesellschaft / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 15:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_b294f5b0aa5ec238fbf2",
+          "title": "Mahnwache gegen rechtsextremistische Tendenzen in Politik und Gesellschaft",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "place": "Alexanderplatz",
+          "postcode": "10178",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_4ab97023509efae2f58d:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Rechenzentren - nein danke! / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 13:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_4ab97023509efae2f58d",
+          "title": "Rechenzentren - nein danke!",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "13:00",
+          "end_time": "15:00",
+          "place": "Lankwitzer Str. 45",
+          "postcode": "12107",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_72622f54db19554f4d92:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Nein zur Hinrichtung im Iran, insbesondere der Todesstrafen gegen junge Menschen / Gedenken an die hingerichteten jungen Menschen („Tempel der Hinrichtungen“) (vom 01.10. bis 25.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 11:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_72622f54db19554f4d92",
+          "title": "Nein zur Hinrichtung im Iran, insbesondere der Todesstrafen gegen junge Menschen / Gedenken an die hingerichteten jungen Menschen („Tempel der Hinrichtungen“) (vom 01.10. bis 25.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "11:00",
+          "end_time": "15:00",
+          "place": "Podbielskiallee 67",
+          "postcode": "14195",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_87f1664cf450f606829b:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 10:30",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_87f1664cf450f606829b",
+          "title": "Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "10:30",
+          "end_time": "13:00",
+          "place": "Jannowitzbrücke",
+          "postcode": "10179",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_b69cc3c86506dd20968c:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: FridaysForFuture; Klimamahnwache - für die Einhaltung des Pariser Abkommens und generell (vom 03.07. bis 25.12.2026 - jeweils Fr.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 10:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_b69cc3c86506dd20968c",
+          "title": "FridaysForFuture; Klimamahnwache - für die Einhaltung des Pariser Abkommens und generell (vom 03.07. bis 25.12.2026 - jeweils Fr.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "place": "Platz der Republik",
+          "postcode": "10557",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_abc9d70685f4264b1278:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Warnstreik im Rahmen der Tarifrunde in der Metall- und Elektroindustrie Berlin-Brandenburg / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 10:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_abc9d70685f4264b1278",
+          "title": "Warnstreik im Rahmen der Tarifrunde in der Metall- und Elektroindustrie Berlin-Brandenburg",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "10:00",
+          "end_time": "11:30",
+          "place": "Otisstr. 33",
+          "postcode": "13507",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_8b33fa61df48d0b8e7ad:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Warnstreik im Rahmen der Tarifrunde in der Metall- und Elektroindustrie Berlin-Brandenburg / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 09:30",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8b33fa61df48d0b8e7ad",
+          "title": "Warnstreik im Rahmen der Tarifrunde in der Metall- und Elektroindustrie Berlin-Brandenburg",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "09:30",
+          "end_time": "11:30",
+          "route": "Egellsstr. 21 - Egellsstr. - Berliner Str. - Seidelstr. - Otisstr. - Otissstr. 33",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_aa053d98dadd6bd8f176:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Sichere Schulwege machen unsere Kinder stark –Neumannstraße für alle sicher machen! Gefordert wird der Bau des seit 2010 geplanten Radwegs auf der Neumannstraße, die sichere Gestaltung der Kreuzungsbereiche für alle Verkehrsteilnehmenden und die Einrichtung von sicheren Ankommenszonen rings um Schulen und Kitas. Trotz dichtem Durchgangsverkehrs und gleichzeitig über 4000 Kindern und Jugendlichen, die entlang der Neumannstraße Schulen und Kitas besuchen, werden wichtige Maßnahmen für sichere Wege seit Jahren verschleppt. Politik und Verwaltung müssen endlich handeln! / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 07:15",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_aa053d98dadd6bd8f176",
+          "title": "Sichere Schulwege machen unsere Kinder stark –Neumannstraße für alle sicher machen! Gefordert wird der Bau des seit 2010 geplanten Radwegs auf der Neumannstraße, die sichere Gestaltung der Kreuzungsbereiche für alle Verkehrsteilnehmenden und die Einrichtung von sicheren Ankommenszonen rings um Schulen und Kitas. Trotz dichtem Durchgangsverkehrs und gleichzeitig über 4000 Kindern und Jugendlichen, die entlang der Neumannstraße Schulen und Kitas besuchen, werden wichtige Maßnahmen für sichere Wege seit Jahren verschleppt. Politik und Verwaltung müssen endlich handeln!",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "07:15",
+          "end_time": "08:00",
+          "postcode": "13189",
+          "route": "Neumannstr./ Kissingenstr. (AK) - Neumannstr. -Neumannstr. Ecke Arnold-Zweig-Str. (ZK) - Neumannstr. - Eschengraben - Eschengraben 56 (EK)",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_478ee1b78e8979505b09:removed:2026-11-08T11:54:38.276393+00:00",
+      "title": "Removed: Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-06 / 00:00",
+      "date_published": "2026-11-08T11:54:38.276393+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_478ee1b78e8979505b09",
+          "title": "Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-06",
+          "start_time": "00:00",
+          "end_time": "23:59",
+          "place": "Platz der Republik 1",
+          "postcode": "10557",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-07T11:42:36.402901+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
       "id": "rec_446524d203c58c07a501:removed:2026-11-07T11:42:44.382160+00:00",
       "title": "Removed: POL-HH: 261029-4. Verkehrshinweis und Erreichbarkeit der Polizeipressestelle für den kommenden Samstag / https://www.presseportal.de/blaulicht/pm/6337/6380582",
       "date_published": "2026-11-07T11:42:44.382160+00:00",
@@ -13304,480 +13767,6 @@
           "end_time": "20:00",
           "place": "Alexanderplatz 1",
           "postcode": "10178",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_c425e23bf2518249e904:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Für Frieden, Freiheit und Selbstbestimmung (vom 05.01. bis 28.12.2026 - jeweils Mo.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-28 / 17:45",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_c425e23bf2518249e904",
-          "title": "Für Frieden, Freiheit und Selbstbestimmung (vom 05.01. bis 28.12.2026 - jeweils Mo.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-28",
-          "start_time": "17:45",
-          "end_time": "19:30",
-          "place": "Kirchstr. 1",
-          "postcode": "14163",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_643f7db84fa893084898:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Diskurs üben - Menschlichkeit bewahren - Frieden lernen! (vom 05.01. bis 28.12.2026 - jeweils ) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-28 / 14:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_643f7db84fa893084898",
-          "title": "Diskurs üben - Menschlichkeit bewahren - Frieden lernen! (vom 05.01. bis 28.12.2026 - jeweils )",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-28",
-          "start_time": "14:00",
-          "end_time": "19:00",
-          "place": "Antonplatz 1",
-          "postcode": "13086",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_04d035233749de45f729:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Mahnwache vor dem RKI. Kritisiert wird die Rolle des RKI im Zusammenhang mit der Corona-Hysterie und den dadurch begründeten Menschenrechtsverletzungen. (vom 07.09.2026 bis 27.09.2027 - jeweils Mo.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-28 / 12:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_04d035233749de45f729",
-          "title": "Mahnwache vor dem RKI. Kritisiert wird die Rolle des RKI im Zusammenhang mit der Corona-Hysterie und den dadurch begründeten Menschenrechtsverletzungen. (vom 07.09.2026 bis 27.09.2027 - jeweils Mo.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-28",
-          "start_time": "12:00",
-          "end_time": "14:00",
-          "place": "Nordufer 20",
-          "postcode": "13353",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_56e1be58a84ebd91e42e:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-28 / 10:30",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_56e1be58a84ebd91e42e",
-          "title": "Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-28",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_9b460adb5779373b847f:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-28 / 00:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_9b460adb5779373b847f",
-          "title": "Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-28",
-          "start_time": "00:00",
-          "end_time": "23:59",
-          "place": "Platz der Republik 1",
-          "postcode": "10557",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_5be5fd12150613bf95dc:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Lichterkette für Respekt Toleranz und Vielfalt in Blankenburg - Unser Dorf bleibt bunt (vom 06.09.2026 bis 27.06.2027 - jeweils So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-27 / 18:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_5be5fd12150613bf95dc",
-          "title": "Lichterkette für Respekt Toleranz und Vielfalt in Blankenburg - Unser Dorf bleibt bunt (vom 06.09.2026 bis 27.06.2027 - jeweils So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-27",
-          "start_time": "18:00",
-          "end_time": "18:30",
-          "place": "Alt-Blankenburg 12",
-          "postcode": "13129",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_9a4603ba7a7296e02aa0:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Stoppt den Genozid in Palästina durch Israel. Die deutsche Regierung ist der zweitgrößte Waffenlieferant Israels und damit Mittäter an dessen Verbrechen! (vom 16.10. bis 31.12.2026 - jeweils So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-27 / 13:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_9a4603ba7a7296e02aa0",
-          "title": "Stoppt den Genozid in Palästina durch Israel. Die deutsche Regierung ist der zweitgrößte Waffenlieferant Israels und damit Mittäter an dessen Verbrechen! (vom 16.10. bis 31.12.2026 - jeweils So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-27",
-          "start_time": "13:00",
-          "end_time": "17:00",
-          "place": "Grünberger Str. 71",
-          "postcode": "10245",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_d6ee1fa9a4c8fb58764a:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-27 / 12:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_d6ee1fa9a4c8fb58764a",
-          "title": "Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-27",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_966ea4bf1d9e7ce032e0:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: „Wir informieren über die aktuelle Lage in Gaza. Für einen Stopp aller Waffenexporte und militärischer Kooperation mit Israel. Für eine Aussetzung des Assoziierungsabkommens zwischen der Europäischen Union und Israel. Für einen gerechten Frieden in Nahost!“ (vom 04.10. bis 27.12.2026 - jeweils So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-27 / 11:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_966ea4bf1d9e7ce032e0",
-          "title": "„Wir informieren über die aktuelle Lage in Gaza. Für einen Stopp aller Waffenexporte und militärischer Kooperation mit Israel. Für eine Aussetzung des Assoziierungsabkommens zwischen der Europäischen Union und Israel. Für einen gerechten Frieden in Nahost!“ (vom 04.10. bis 27.12.2026 - jeweils So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-27",
-          "start_time": "11:00",
-          "end_time": "18:00",
-          "place": "Eberswalder Str.",
-          "postcode": "10437",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_81dbbd5d9cf1e77c4629:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-27 / 00:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_81dbbd5d9cf1e77c4629",
-          "title": "Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-27",
-          "start_time": "00:00",
-          "end_time": "23:59",
-          "place": "Platz der Republik 1",
-          "postcode": "10557",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_8200c61610248873c7b0:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Gegen Speziesismus – Für eine vegane Gesellschaft (vom 07.11.2026 bis 30.01.2027 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 15:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_8200c61610248873c7b0",
-          "title": "Gegen Speziesismus – Für eine vegane Gesellschaft (vom 07.11.2026 bis 30.01.2027 - jeweils Sa.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "15:00",
-          "end_time": "18:00",
-          "place": "Pariser Platz",
-          "postcode": "10117",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_f88a433575442a4e5061:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: In der Liebe von und zu Gott liegt Frieden für alle Völker und Einheit der Menschen. Jeder gewaltvolle, stolze, selbstverherrlichende sowie kriegerische Akt, wie der in Israel oder in der Ukraine, ist gegen Gottes Willen und nicht zu unterstützen. Aber auch Werte und politische Entscheidungen brauchen eine Neuausrichtung auf die natürliche und gute moralische Ordnung, wie Gott sie in der Bibel gegeben hat. / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 14:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_f88a433575442a4e5061",
-          "title": "In der Liebe von und zu Gott liegt Frieden für alle Völker und Einheit der Menschen. Jeder gewaltvolle, stolze, selbstverherrlichende sowie kriegerische Akt, wie der in Israel oder in der Ukraine, ist gegen Gottes Willen und nicht zu unterstützen. Aber auch Werte und politische Entscheidungen brauchen eine Neuausrichtung auf die natürliche und gute moralische Ordnung, wie Gott sie in der Bibel gegeben hat.",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "14:00",
-          "end_time": "20:00",
-          "place": "Alexanderplatz",
-          "postcode": "10178",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_ec32f9d2d590a11b7a6d:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: „Musikalische Versammlung für Frieden, Verständigung und gesellschaftlichen Zusammenhalt – gemeinsames Singen als Ausdruck für Gewaltfreiheit, Dialogbereitschaft und ein respektvolles Miteinander.“ (vom 25.04. bis 31.12.2026 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 14:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_ec32f9d2d590a11b7a6d",
-          "title": "„Musikalische Versammlung für Frieden, Verständigung und gesellschaftlichen Zusammenhalt – gemeinsames Singen als Ausdruck für Gewaltfreiheit, Dialogbereitschaft und ein respektvolles Miteinander.“ (vom 25.04. bis 31.12.2026 - jeweils Sa.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "14:00",
-          "end_time": "15:45",
-          "place": "Wilmersdorfer Str. 118",
-          "postcode": "10627",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_a6123f3668d2b4382996:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Mahnwache für den Frieden (vom 10.01. bis 26.12.2026 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 13:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_a6123f3668d2b4382996",
-          "title": "Mahnwache für den Frieden (vom 10.01. bis 26.12.2026 - jeweils Sa.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "13:00",
-          "end_time": "15:00",
-          "place": "Bebelplatz 2",
-          "postcode": "10117",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_88e121565ae8ecf3dcb1:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Alleinerziehende / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 13:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_88e121565ae8ecf3dcb1",
-          "title": "Alleinerziehende",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "13:00",
-          "end_time": "15:00",
-          "place": "Alexanderplatz",
-          "postcode": "10178",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_8261cf0a1fa1e20dc6fa:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Ohne JESUS kein Frieden (vom 24.01. bis 31.12.2026 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 12:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_8261cf0a1fa1e20dc6fa",
-          "title": "Ohne JESUS kein Frieden (vom 24.01. bis 31.12.2026 - jeweils Sa.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "12:00",
-          "end_time": "15:00",
-          "place": "Leopoldplatz",
-          "postcode": "13347",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-10-31T10:54:29.384793+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_731831b4016eb4886fe3:added:2026-10-31T10:54:29.979554+00:00",
-      "title": "Added: Ohne JESUS kein Frieden (vom 17.01. bis 31.12.2026 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-12-26 / 12:00",
-      "date_published": "2026-10-31T10:54:29.979554+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_731831b4016eb4886fe3",
-          "title": "Ohne JESUS kein Frieden (vom 17.01. bis 31.12.2026 - jeweils Sa.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-12-26",
-          "start_time": "12:00",
-          "end_time": "15:00",
           "_source": {
             "source_id": "berlin-assemblies",
             "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
