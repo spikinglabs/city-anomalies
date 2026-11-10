@@ -8,36 +8,36 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "42629165829-1",
+    "id": "42824492570-1",
     "status": "success",
-    "started_at": "2026-11-09T13:51:47Z",
-    "finished_at": "2026-11-09T13:51:59Z",
-    "duration_seconds": 11.992,
+    "started_at": "2026-11-10T13:26:26Z",
+    "finished_at": "2026-11-10T13:26:38Z",
+    "duration_seconds": 12.254,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/42629165829"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/42824492570"
   },
   "last_success": {
-    "id": "42629165829-1",
+    "id": "42824492570-1",
     "status": "success",
-    "started_at": "2026-11-09T13:51:47Z",
-    "finished_at": "2026-11-09T13:51:59Z",
-    "duration_seconds": 11.992,
+    "started_at": "2026-11-10T13:26:26Z",
+    "finished_at": "2026-11-10T13:26:38Z",
+    "duration_seconds": 12.254,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/42629165829"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/42824492570"
   },
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 870
+      "rows": 978
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
       "status": "pass",
-      "value": 863
+      "value": 974
     },
     {
       "name": "police-duesseldorf",
@@ -47,25 +47,27 @@
     {
       "name": "police-frankfurt",
       "status": "pass",
-      "value": 2
+      "value": 1
     },
     {
       "name": "police-hamburg",
       "status": "pass",
-      "value": 1
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
     },
     {
       "name": "police-koeln",
       "status": "pass",
-      "value": 1
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
     }
   ],
   "metrics": {
     "sources": 5,
     "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 870,
-    "rejections": 210,
+    "records": 978,
+    "rejections": 37,
     "pages": 5,
     "model_calls": 0,
     "cost_eur": 0.0
@@ -74,5 +76,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-11-09T13:51:59Z"
+  "written_at": "2026-11-10T13:26:38Z"
 }
