@@ -8,46 +8,47 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "43022573926-1",
+    "id": "43230038997-1",
     "status": "success",
-    "started_at": "2026-11-11T12:42:05Z",
-    "finished_at": "2026-11-11T12:42:17Z",
-    "duration_seconds": 11.859,
+    "started_at": "2026-11-12T13:43:50Z",
+    "finished_at": "2026-11-12T13:44:03Z",
+    "duration_seconds": 12.206,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43022573926"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43230038997"
   },
   "last_success": {
-    "id": "43022573926-1",
+    "id": "43230038997-1",
     "status": "success",
-    "started_at": "2026-11-11T12:42:05Z",
-    "finished_at": "2026-11-11T12:42:17Z",
-    "duration_seconds": 11.859,
+    "started_at": "2026-11-12T13:43:50Z",
+    "finished_at": "2026-11-12T13:44:03Z",
+    "duration_seconds": 12.206,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43022573926"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43230038997"
   },
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 978
+      "rows": 982
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
       "status": "pass",
-      "value": 974
+      "value": 978
     },
     {
       "name": "police-duesseldorf",
       "status": "pass",
-      "value": 3
+      "value": 4
     },
     {
       "name": "police-frankfurt",
       "status": "pass",
-      "value": 1
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
     },
     {
       "name": "police-hamburg",
@@ -66,7 +67,7 @@
     "sources": 5,
     "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 978,
+    "records": 982,
     "rejections": 37,
     "pages": 5,
     "model_calls": 0,
@@ -76,5 +77,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-11-11T12:42:17Z"
+  "written_at": "2026-11-12T13:44:03Z"
 }
