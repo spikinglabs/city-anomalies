@@ -4,6 +4,132 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_6ab2e040ff11d2a12a5b:added:2026-11-13T13:04:00.715770+00:00",
+      "title": "Added: POL-K: 261112-4-K Mehrere Demonstrationen in Köln-Deutz und Innenstadt - Verkehrsstörungen erwartet / https://www.presseportal.de/blaulicht/pm/12415/6389598",
+      "date_published": "2026-11-13T13:04:00.715770+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_6ab2e040ff11d2a12a5b",
+          "title": "POL-K: 261112-4-K Mehrere Demonstrationen in Köln-Deutz und Innenstadt - Verkehrsstörungen erwartet",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6389598",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-11-12T16:51:02+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-13T13:04:00.712765+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-13T13:04:00.712765+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_efb47a237091759ce340:added:2026-11-13T13:04:00.715770+00:00",
+      "title": "Added: POL-K: POL-K: 261113-1-K \"Deine Disco\" im Polizeipräsidium - Einladung zur Berichterstattung über Jürgen Becker / https://www.presseportal.de/blaulicht/pm/12415/6389774",
+      "date_published": "2026-11-13T13:04:00.715770+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_efb47a237091759ce340",
+          "title": "POL-K: POL-K: 261113-1-K \"Deine Disco\" im Polizeipräsidium - Einladung zur Berichterstattung über Jürgen Becker",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6389774",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-11-13T08:53:20+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-13T13:04:00.712765+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-13T13:04:00.712765+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_9aaa900a8d5247bfe6a6:removed:2026-11-13T13:03:53.965741+00:00",
+      "title": "Removed: POL-D: Stadtmitte: Demonstrationen in der Düsseldorfer Innenstadt - Polizei mit zahlreichen Kräften im Einsatz / https://www.presseportal.de/blaulicht/pm/13248/6380409",
+      "date_published": "2026-11-13T13:03:53.965741+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_9aaa900a8d5247bfe6a6",
+          "title": "POL-D: Stadtmitte: Demonstrationen in der Düsseldorfer Innenstadt - Polizei mit zahlreichen Kräften im Einsatz",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/13248/6380409",
+          "city": "Düsseldorf",
+          "kind": "police_notice",
+          "published": "2026-10-29T14:10:05+01:00",
+          "_source": {
+            "source_id": "police-duesseldorf",
+            "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2",
+            "retrieved_at": "2026-11-12T13:43:56.348386+00:00",
+            "mode": "fields",
+            "first_seen": "2026-10-31T10:54:32.578117+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_13248.rss2"
+    },
+    {
+      "id": "rec_c4ad20e0e54c317b1268:added:2026-11-13T13:03:51.693839+00:00",
+      "title": "Added: Ohne JESUS kein Frieden (vom 16.01. bis 31.12.2027 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-12-18 / 12:00",
+      "date_published": "2026-11-13T13:03:51.693839+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_c4ad20e0e54c317b1268",
+          "title": "Ohne JESUS kein Frieden (vom 16.01. bis 31.12.2027 - jeweils Sa.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2027-12-18",
+          "start_time": "12:00",
+          "end_time": "15:00",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-13T13:03:51.373970+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-13T13:03:51.373970+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_4bde484df1dcb3d0c062:added:2026-11-13T13:03:51.693839+00:00",
+      "title": "Added: „Ohne JESUS kein Frieden (vom 16.01. bis 31.12.2027 - jeweils Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-12-18 / 12:00",
+      "date_published": "2026-11-13T13:03:51.693839+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_4bde484df1dcb3d0c062",
+          "title": "„Ohne JESUS kein Frieden (vom 16.01. bis 31.12.2027 - jeweils Sa.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2027-12-18",
+          "start_time": "12:00",
+          "end_time": "15:00",
+          "place": "Reichenberger Str. 176",
+          "postcode": "10999",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-13T13:03:51.373970+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-13T13:03:51.373970+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
       "id": "rec_14098fdb19533a6e37ea:removed:2026-11-12T13:43:58.622670+00:00",
       "title": "Removed: POL-F: 261108 - 1401 Frankfurt - A661: Sperrung nach Unfall / https://www.presseportal.de/blaulicht/pm/4970/6386185",
       "date_published": "2026-11-12T13:43:58.622670+00:00",
@@ -13784,145 +13910,6 @@
           "end_time": "13:00",
           "place": "Kurt-Schumacher-Platz",
           "postcode": "13405",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_2734e1d6d76bb078ea68:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: Gegen Mietverdrängung durch sogenannte energetische und Luxussanierung für unverfälschte Denkmalpflege und Instandhaltung (vom 03.10. bis 02.12.2026 - jeweils Mi.,Sa.,So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 10:00",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_2734e1d6d76bb078ea68",
-          "title": "Gegen Mietverdrängung durch sogenannte energetische und Luxussanierung für unverfälschte Denkmalpflege und Instandhaltung (vom 03.10. bis 02.12.2026 - jeweils Mi.,Sa.,So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "10:00",
-          "end_time": "18:00",
-          "place": "An der Heide 1",
-          "postcode": "13509",
-          "route": "An der Heide, Kehrwieder, Am Rosensteg, Am Brunnen - > alle 2 Stunden im Wechsel",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_4c8a3b0e9d057dd45e56:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: 1.000.000 Stimmen für den Frieden! Deutschland soll Diplomatie- und Friedensland Nr. 1 werden / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 10:00",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_4c8a3b0e9d057dd45e56",
-          "title": "1.000.000 Stimmen für den Frieden! Deutschland soll Diplomatie- und Friedensland Nr. 1 werden",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "10:00",
-          "end_time": "14:30",
-          "place": "Winterfeldtstr. 42",
-          "postcode": "10781",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_1140d48676e91e399d28:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: Thema: Muslime für Frieden #Wir möchten mit Passanten ins Gespräch kommen, Vorurteile und Vorwürfe gegenüber Muslime beseitigen und den Friedlichen Islam Präsentieren... / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 10:00",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_1140d48676e91e399d28",
-          "title": "Thema: Muslime für Frieden #Wir möchten mit Passanten ins Gespräch kommen, Vorurteile und Vorwürfe gegenüber Muslime beseitigen und den Friedlichen Islam Präsentieren...",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "10:00",
-          "end_time": "14:00",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_e33355ce7ab83ceb739e:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: Protest gegen Gehwegradler / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 10:00",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_e33355ce7ab83ceb739e",
-          "title": "Protest gegen Gehwegradler",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "place": "Südstern",
-          "postcode": "10961",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_6951e61393e8296a7376:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: Infostand und Kundgebung vor dem Landesparteitag der Partei Die Linke zur kritischen Auseinandersetzung mit dem Sondierungspapier / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 09:30",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_6951e61393e8296a7376",
-          "title": "Infostand und Kundgebung vor dem Landesparteitag der Partei Die Linke zur kritischen Auseinandersetzung mit dem Sondierungspapier",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "09:30",
-          "end_time": "14:00",
-          "place": "Herzbergstr. 129",
-          "postcode": "10365",
           "_source": {
             "source_id": "berlin-assemblies",
             "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
