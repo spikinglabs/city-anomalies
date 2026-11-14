@@ -4,6 +4,30 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_bb35db09b5b2776f3a8b:added:2026-11-14T12:08:42.233655+00:00",
+      "title": "Added: POL-F: 261113 - 1421 Frankfurt - Stadtgebiet: Mehrere Versammlungslagen in der Innenstadt / https://www.presseportal.de/blaulicht/pm/4970/6390267",
+      "date_published": "2026-11-14T12:08:42.233655+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_bb35db09b5b2776f3a8b",
+          "title": "POL-F: 261113 - 1421 Frankfurt - Stadtgebiet: Mehrere Versammlungslagen in der Innenstadt",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/4970/6390267",
+          "city": "Frankfurt am Main",
+          "kind": "police_notice",
+          "published": "2026-11-13T14:32:34+01:00",
+          "_source": {
+            "source_id": "police-frankfurt",
+            "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2",
+            "retrieved_at": "2026-11-14T12:08:42.229937+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-14T12:08:42.229937+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_4970.rss2"
+    },
+    {
       "id": "rec_6ab2e040ff11d2a12a5b:added:2026-11-13T13:04:00.715770+00:00",
       "title": "Added: POL-K: 261112-4-K Mehrere Demonstrationen in Köln-Deutz und Innenstadt - Verkehrsstörungen erwartet / https://www.presseportal.de/blaulicht/pm/12415/6389598",
       "date_published": "2026-11-13T13:04:00.715770+00:00",
@@ -13882,34 +13906,6 @@
           "end_time": "14:00",
           "place": "Carl-Schurz-Str.",
           "postcode": "13597",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-01T11:48:54.592975+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-10-31T10:54:29.384793+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_cc860da2cd3647c90c0d:removed:2026-11-03T12:46:26.626758+00:00",
-      "title": "Removed: Öffentliches Gespräch über aktuelle politische Debatte, besonders über die Polarisierung und Radikalisierung der politischen Positionen. Meinungsäußerung der Veranstalter zur politischen Lage. / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-10-31 / 11:00",
-      "date_published": "2026-11-03T12:46:26.626758+00:00",
-      "_gleanyard": {
-        "change": "removed",
-        "record": {
-          "id": "rec_cc860da2cd3647c90c0d",
-          "title": "Öffentliches Gespräch über aktuelle politische Debatte, besonders über die Polarisierung und Radikalisierung der politischen Positionen. Meinungsäußerung der Veranstalter zur politischen Lage.",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2026-10-31",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "place": "Kurt-Schumacher-Platz",
-          "postcode": "13405",
           "_source": {
             "source_id": "berlin-assemblies",
             "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
