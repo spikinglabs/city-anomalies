@@ -8,14 +8,19 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "44318519799-1",
-    "status": "success",
-    "started_at": "2026-11-18T13:54:42Z",
-    "finished_at": "2026-11-18T13:54:55Z",
-    "duration_seconds": 12.221,
+    "id": "44543201060-1",
+    "status": "partial",
+    "started_at": "2026-11-19T14:23:43Z",
+    "finished_at": "2026-11-19T14:23:57Z",
+    "duration_seconds": 14.438,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44318519799"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44543201060",
+    "message": "1 of 5 sources failed",
+    "error": {
+      "type": "bounds_exceeded",
+      "message": "berlin-assemblies: berlin-assemblies: reached the limit of 3 requests"
+    }
   },
   "last_success": {
     "id": "44318519799-1",
@@ -30,14 +35,15 @@
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 870
+      "rows": 872
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
-      "status": "pass",
-      "value": 867
+      "status": "fail",
+      "value": 867,
+      "message": "failing: berlin-assemblies: reached the limit of 3 requests"
     },
     {
       "name": "police-duesseldorf",
@@ -47,14 +53,12 @@
     {
       "name": "police-frankfurt",
       "status": "pass",
-      "value": 0,
-      "message": "ok: no records, as expected for a seasonal source"
+      "value": 1
     },
     {
       "name": "police-hamburg",
       "status": "pass",
-      "value": 0,
-      "message": "ok: no records, as expected for a seasonal source"
+      "value": 1
     },
     {
       "name": "police-koeln",
@@ -64,11 +68,11 @@
   ],
   "metrics": {
     "sources": 5,
-    "sources_failing": 0,
+    "sources_failing": 1,
     "sources_degraded": 0,
-    "records": 870,
-    "rejections": 148,
-    "pages": 5,
+    "records": 5,
+    "rejections": 0,
+    "pages": 4,
     "model_calls": 0,
     "cost_eur": 0.0
   },
@@ -76,5 +80,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-11-18T13:54:55Z"
+  "written_at": "2026-11-19T14:23:57Z"
 }
