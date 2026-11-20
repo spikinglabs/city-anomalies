@@ -15,8 +15,8 @@
         "path": "exports/records.jsonl",
         "format": "ndjson",
         "mediatype": "application/x-ndjson",
-        "rows": 872,
-        "bytes": 702815,
+        "rows": 1312,
+        "bytes": 1111700,
         "schema": {
           "fields": [
             {
