@@ -79,3 +79,10 @@ claude mcp add gleanyard -- gleanyard mcp     # or any MCP client: command `glea
 To watch this project together with others, add the topic `gleanyard` to the repo on GitHub:
 a [status hub](https://kausalflow.github.io/gleanyard/concepts/status-hub/) set up with
 `gleanyard hub init --owner <you>` finds it by that topic.
+
+## Licence
+
+The collected records (`data/`, `exports/`) and this repository are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`). Credit
+"city-anomalies (spikinglabs)" and keep each record's link to its source; the facts belong to the
+organisations that published them.
