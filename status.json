@@ -1,65 +1,42 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T13:26:29.784115Z",
+  "generated_at": "2026-10-30T07:38:29.661841Z",
   "schema_name": "alert",
-  "healthy": true,
+  "healthy": false,
   "sources": [
     {
       "id": "berlin-assemblies",
       "enabled": true,
-      "health": "ok",
-      "checked_at": "2026-11-21T13:26:29.784115Z",
-      "last_success_at": "2026-11-21T13:26:29.784115Z",
-      "consecutive_failures": 0,
-      "records": 1308,
-      "previous_records": 1307,
-      "rejections": 38,
-      "pages": 1,
+      "health": "failing",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": null,
+      "consecutive_failures": 1,
+      "records": 0,
+      "previous_records": null,
+      "rejections": 0,
+      "pages": 0,
       "model_calls": 0,
       "cost_eur": 0.0,
-      "field_fill_rates": {
-        "city": 1.0,
-        "end_time": 1.0,
-        "kind": 1.0,
-        "place": 0.8792048929663608,
-        "postcode": 0.8799694189602446,
-        "route": 0.13761467889908258,
-        "source_url": 1.0,
-        "start_date": 1.0,
-        "start_time": 1.0,
-        "title": 1.0
-      },
+      "field_fill_rates": {},
       "warnings": [],
-      "baseline_fill_rates": {
-        "city": 1.0,
-        "end_time": 1.0,
-        "kind": 1.0,
-        "place": 0.8792048929663608,
-        "postcode": 0.8799694189602446,
-        "route": 0.13761467889908258,
-        "source_url": 1.0,
-        "start_date": 1.0,
-        "start_time": 1.0,
-        "title": 1.0
-      },
-      "baseline_rejection_rate": 0.02823179791976226,
-      "records_digest": "a7a47398fc8152f55607a20f6f165ede105c64262eb695430f0d5758372b7d9a",
-      "records_changed_at": "2026-11-21T13:26:29.784115Z",
-      "error_kind": null,
-      "error": null,
+      "baseline_fill_rates": {},
+      "baseline_rejection_rate": null,
+      "records_digest": null,
+      "records_changed_at": null,
+      "error_kind": "bounds_exceeded",
+      "error": "berlin-assemblies: reached the limit of 3 requests",
       "note": null,
       "terms": {
         "reviewed_on": "2026-10-30",
-        "checked_at": "2026-11-21T13:26:30.365994Z",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
         "pages": {
-          "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/": "abf9e117612e94981acec37ceb0edcffe5c1b9c041e5e432dc271acdded79875",
-          "https://www.berlin.de/robots.txt": "627abd6579def631b035c11aabeaf5bfdeb433f5fbd0f333731f3a4762152254"
+          "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/": "8194fef47062cf6d3e745bc66ace779a7459fca5680503d592bd92731b7b383c"
         },
-        "changed": [
-          "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-        ],
-        "changed_at": "2026-11-07T11:42:47.710475Z",
-        "errors": {}
+        "changed": [],
+        "changed_at": null,
+        "errors": {
+          "https://www.berlin.de/robots.txt": "berlin-assemblies: reached the limit of 5 requests"
+        }
       },
       "recipe": null,
       "recipe_digest": null
@@ -68,11 +45,11 @@
       "id": "police-duesseldorf",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-11-21T13:26:29.784115Z",
-      "last_success_at": "2026-11-21T13:26:29.784115Z",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
       "consecutive_failures": 0,
-      "records": 1,
-      "previous_records": 1,
+      "records": 2,
+      "previous_records": null,
       "rejections": 0,
       "pages": 1,
       "model_calls": 0,
@@ -93,22 +70,20 @@
         "title": 1.0
       },
       "baseline_rejection_rate": 0.0,
-      "records_digest": "51d930a6f2a18db5de79a6c83739bb7e760b295cb8b5d70de97af9b95903680e",
-      "records_changed_at": "2026-11-15T12:42:45.423041Z",
+      "records_digest": "48633ac4ab031b482d7cd3175069783a1eedd304b7dbf903caa8ca5be07c68bd",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
       "error_kind": null,
       "error": null,
       "note": null,
       "terms": {
         "reviewed_on": "2026-10-30",
-        "checked_at": "2026-11-21T13:26:30.365994Z",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
         "pages": {
           "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
           "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
         },
-        "changed": [
-          "https://www.presseportal.de/robots.txt"
-        ],
-        "changed_at": "2026-11-07T11:42:47.710475Z",
+        "changed": [],
+        "changed_at": null,
         "errors": {}
       },
       "recipe": null,
@@ -118,47 +93,33 @@
       "id": "police-frankfurt",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-11-21T13:26:29.784115Z",
-      "last_success_at": "2026-11-21T13:26:29.784115Z",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
       "consecutive_failures": 0,
-      "records": 1,
-      "previous_records": 1,
+      "records": 0,
+      "previous_records": null,
       "rejections": 0,
       "pages": 1,
       "model_calls": 0,
       "cost_eur": 0.0,
-      "field_fill_rates": {
-        "city": 1.0,
-        "kind": 1.0,
-        "published": 1.0,
-        "source_url": 1.0,
-        "title": 1.0
-      },
+      "field_fill_rates": {},
       "warnings": [],
-      "baseline_fill_rates": {
-        "city": 1.0,
-        "kind": 1.0,
-        "published": 1.0,
-        "source_url": 1.0,
-        "title": 1.0
-      },
-      "baseline_rejection_rate": 0.0,
-      "records_digest": "415e3624b313140bdda68eaeb49e92761d398808ad66d267f5c59a525b82257d",
-      "records_changed_at": "2026-11-20T13:58:54.544904Z",
+      "baseline_fill_rates": {},
+      "baseline_rejection_rate": null,
+      "records_digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
       "error_kind": null,
       "error": null,
-      "note": null,
+      "note": "no records, as expected for a seasonal source",
       "terms": {
         "reviewed_on": "2026-10-30",
-        "checked_at": "2026-11-21T13:26:30.365994Z",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
         "pages": {
           "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
           "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
         },
-        "changed": [
-          "https://www.presseportal.de/robots.txt"
-        ],
-        "changed_at": "2026-11-07T11:42:47.710475Z",
+        "changed": [],
+        "changed_at": null,
         "errors": {}
       },
       "recipe": null,
@@ -168,11 +129,11 @@
       "id": "police-hamburg",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-11-21T13:26:29.784115Z",
-      "last_success_at": "2026-11-21T13:26:29.784115Z",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
       "consecutive_failures": 0,
       "records": 1,
-      "previous_records": 1,
+      "previous_records": null,
       "rejections": 0,
       "pages": 1,
       "model_calls": 0,
@@ -193,22 +154,20 @@
         "title": 1.0
       },
       "baseline_rejection_rate": 0.0,
-      "records_digest": "e5d96e4eb1ef6086c781afb05283dd7f0ce5954177b569f76f83b2d8d0b74258",
-      "records_changed_at": "2026-11-19T14:23:57.449065Z",
+      "records_digest": "7b101586be9cda16ad26ea1501a1867d7b2a1e318eb6a8854a9f45e8f6903588",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
       "error_kind": null,
       "error": null,
       "note": null,
       "terms": {
         "reviewed_on": "2026-10-30",
-        "checked_at": "2026-11-21T13:26:30.365994Z",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
         "pages": {
           "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
           "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
         },
-        "changed": [
-          "https://www.presseportal.de/robots.txt"
-        ],
-        "changed_at": "2026-11-07T11:42:47.710475Z",
+        "changed": [],
+        "changed_at": null,
         "errors": {}
       },
       "recipe": null,
@@ -218,11 +177,11 @@
       "id": "police-koeln",
       "enabled": true,
       "health": "ok",
-      "checked_at": "2026-11-21T13:26:29.784115Z",
-      "last_success_at": "2026-11-21T13:26:29.784115Z",
+      "checked_at": "2026-10-30T07:38:29.661841Z",
+      "last_success_at": "2026-10-30T07:38:29.661841Z",
       "consecutive_failures": 0,
       "records": 3,
-      "previous_records": 2,
+      "previous_records": null,
       "rejections": 0,
       "pages": 1,
       "model_calls": 0,
@@ -243,22 +202,20 @@
         "title": 1.0
       },
       "baseline_rejection_rate": 0.0,
-      "records_digest": "448472516377a63f984c44a123f26ac853d17f23ac709bae3731c79aef36dfbc",
-      "records_changed_at": "2026-11-21T13:26:29.784115Z",
+      "records_digest": "28d0d190591eacf45cf61645aebdd9840735365677a9a00bd7951a1d44c4d874",
+      "records_changed_at": "2026-10-30T07:38:29.661841Z",
       "error_kind": null,
       "error": null,
       "note": null,
       "terms": {
         "reviewed_on": "2026-10-30",
-        "checked_at": "2026-11-21T13:26:30.365994Z",
+        "checked_at": "2026-10-30T07:38:30.567430Z",
         "pages": {
           "https://www.presseportal.de/nutzungsbedingungen": "23169a5315a7cfcf9301e2d1a874a2ea9f7b7d05120e0f2f8861055226d54a80",
           "https://www.presseportal.de/robots.txt": "9232ff6c9f42d188489a86084bf51aad4e82bfd410addf24bf5582305a043cf6"
         },
-        "changed": [
-          "https://www.presseportal.de/robots.txt"
-        ],
-        "changed_at": "2026-11-07T11:42:47.710475Z",
+        "changed": [],
+        "changed_at": null,
         "errors": {}
       },
       "recipe": null,
