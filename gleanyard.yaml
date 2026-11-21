@@ -4,4 +4,12 @@ user_agent: "city-anomalies (+https://github.com/spikinglabs/city-anomalies)"   
 excluded_hosts: []        # hosts research must not propose
 dataherb:                 # list this project in a DataHerb catalog (https://dataherb.github.io); delete to turn off
   id: "city-anomalies"
+  name: Disruptions in big German cities
+  description: >-
+    Announced demonstrations and marches, large police operations, bomb defusals with
+    evacuations, transit strikes and closures in Köln, Berlin, München, Hamburg, Frankfurt am
+    Main and Düsseldorf, collected daily from official sources (police press releases and
+    assembly lists). Facts only, with a link to the official page.
+  tags: [cities, germany, demonstrations, police, transit, alerts]
+  owner: spikinglabs
   expected_interval: P1D  # how often collect runs; the catalog flags the data as stale after this
