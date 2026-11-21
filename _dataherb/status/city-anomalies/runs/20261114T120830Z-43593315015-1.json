@@ -1,0 +1,85 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "city-anomalies",
+    "name": "alert",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "url": "https://github.com/spikinglabs/city-anomalies"
+  },
+  "run": {
+    "id": "43593315015-1",
+    "status": "partial",
+    "started_at": "2026-11-14T12:08:30Z",
+    "finished_at": "2026-11-14T12:08:46Z",
+    "duration_seconds": 15.957,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43593315015",
+    "message": "1 of 5 sources failed",
+    "error": {
+      "type": "bounds_exceeded",
+      "message": "berlin-assemblies: berlin-assemblies: reached the limit of 3 requests"
+    }
+  },
+  "last_success": {
+    "id": "43430370856-1",
+    "status": "success",
+    "started_at": "2026-11-13T13:03:48Z",
+    "finished_at": "2026-11-13T13:04:00Z",
+    "duration_seconds": 11.862,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/43430370856"
+  },
+  "datasets": [
+    {
+      "id": "city-anomalies",
+      "rows": 986
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-assemblies",
+      "status": "fail",
+      "value": 980,
+      "message": "failing: berlin-assemblies: reached the limit of 3 requests"
+    },
+    {
+      "name": "police-duesseldorf",
+      "status": "pass",
+      "value": 3
+    },
+    {
+      "name": "police-frankfurt",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-hamburg",
+      "status": "pass",
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
+    },
+    {
+      "name": "police-koeln",
+      "status": "pass",
+      "value": 2
+    }
+  ],
+  "metrics": {
+    "sources": 5,
+    "sources_failing": 1,
+    "sources_degraded": 0,
+    "records": 6,
+    "rejections": 0,
+    "pages": 4,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.8.2"
+  },
+  "written_at": "2026-11-14T12:08:46Z"
+}

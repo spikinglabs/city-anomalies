@@ -1,0 +1,78 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "city-anomalies",
+    "name": "alert",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "url": "https://github.com/spikinglabs/city-anomalies"
+  },
+  "run": {
+    "id": "44749039568-1",
+    "status": "success",
+    "started_at": "2026-11-20T13:58:42Z",
+    "finished_at": "2026-11-20T13:58:54Z",
+    "duration_seconds": 12.191,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44749039568"
+  },
+  "last_success": {
+    "id": "44749039568-1",
+    "status": "success",
+    "started_at": "2026-11-20T13:58:42Z",
+    "finished_at": "2026-11-20T13:58:54Z",
+    "duration_seconds": 12.191,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44749039568"
+  },
+  "datasets": [
+    {
+      "id": "city-anomalies",
+      "rows": 1312
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-assemblies",
+      "status": "pass",
+      "value": 1307
+    },
+    {
+      "name": "police-duesseldorf",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-frankfurt",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-hamburg",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-koeln",
+      "status": "pass",
+      "value": 2
+    }
+  ],
+  "metrics": {
+    "sources": 5,
+    "sources_failing": 0,
+    "sources_degraded": 0,
+    "records": 1312,
+    "rejections": 39,
+    "pages": 5,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.8.2"
+  },
+  "written_at": "2026-11-20T13:58:54Z"
+}
