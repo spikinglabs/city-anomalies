@@ -8,36 +8,36 @@
     "url": "https://github.com/spikinglabs/city-anomalies"
   },
   "run": {
-    "id": "44749039568-1",
+    "id": "44908837563-1",
     "status": "success",
-    "started_at": "2026-11-20T13:58:42Z",
-    "finished_at": "2026-11-20T13:58:54Z",
-    "duration_seconds": 12.191,
+    "started_at": "2026-11-21T13:26:17Z",
+    "finished_at": "2026-11-21T13:26:29Z",
+    "duration_seconds": 11.848,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44749039568"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44908837563"
   },
   "last_success": {
-    "id": "44749039568-1",
+    "id": "44908837563-1",
     "status": "success",
-    "started_at": "2026-11-20T13:58:42Z",
-    "finished_at": "2026-11-20T13:58:54Z",
-    "duration_seconds": 12.191,
+    "started_at": "2026-11-21T13:26:17Z",
+    "finished_at": "2026-11-21T13:26:29Z",
+    "duration_seconds": 11.848,
     "attempt": 1,
     "trigger": "schedule",
-    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44749039568"
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/44908837563"
   },
   "datasets": [
     {
       "id": "city-anomalies",
-      "rows": 1312
+      "rows": 1314
     }
   ],
   "checks": [
     {
       "name": "berlin-assemblies",
       "status": "pass",
-      "value": 1307
+      "value": 1308
     },
     {
       "name": "police-duesseldorf",
@@ -57,15 +57,15 @@
     {
       "name": "police-koeln",
       "status": "pass",
-      "value": 2
+      "value": 3
     }
   ],
   "metrics": {
     "sources": 5,
     "sources_failing": 0,
     "sources_degraded": 0,
-    "records": 1312,
-    "rejections": 39,
+    "records": 1314,
+    "rejections": 38,
     "pages": 5,
     "model_calls": 0,
     "cost_eur": 0.0
@@ -74,5 +74,5 @@
     "name": "gleanyard",
     "version": "0.8.2"
   },
-  "written_at": "2026-11-20T13:58:54Z"
+  "written_at": "2026-11-21T13:26:29Z"
 }

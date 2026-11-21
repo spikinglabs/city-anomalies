@@ -4,6 +4,58 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_63fbe4fd4a2900436e93:added:2026-11-21T13:26:29.782880+00:00",
+      "title": "Added: POL-K: 261120-5-K Versammlungen in Köln beendet - Friedliche Kundgebungen trotz einzelner Zwischenfälle / https://www.presseportal.de/blaulicht/pm/12415/6395070",
+      "date_published": "2026-11-21T13:26:29.782880+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_63fbe4fd4a2900436e93",
+          "title": "POL-K: 261120-5-K Versammlungen in Köln beendet - Friedliche Kundgebungen trotz einzelner Zwischenfälle",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6395070",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-11-20T19:12:26+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-21T13:26:29.780864+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-21T13:26:29.780864+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_31661e27829a988eb4dd:added:2026-11-21T13:26:20.580918+00:00",
+      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-12-26 / 12:00",
+      "date_published": "2026-11-21T13:26:20.580918+00:00",
+      "_gleanyard": {
+        "change": "added",
+        "record": {
+          "id": "rec_31661e27829a988eb4dd",
+          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2027-12-26",
+          "start_time": "12:00",
+          "end_time": "14:30",
+          "place": "Jannowitzbrücke",
+          "postcode": "10179",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-21T13:26:20.308422+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-21T13:26:20.308422+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
       "id": "rec_efb47a237091759ce340:removed:2026-11-20T13:58:54.540927+00:00",
       "title": "Removed: POL-K: POL-K: 261113-1-K \"Deine Disco\" im Polizeipräsidium - Einladung zur Berichterstattung über Jürgen Becker / https://www.presseportal.de/blaulicht/pm/12415/6389774",
       "date_published": "2026-11-20T13:58:54.540927+00:00",
@@ -13979,62 +14031,6 @@
           "place": "An der Heide 1",
           "postcode": "13509",
           "route": "An der Heide, Kehrwieder, Am Rosensteg, Am Brunnen - >alle 2 Stunden im Wechsel",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_156df9c3bc0632647029:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-01-05 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_156df9c3bc0632647029",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-01-05",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_517afd1462d7e4627198:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-01-04 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_517afd1462d7e4627198",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-01-04",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
           "_source": {
             "source_id": "berlin-assemblies",
             "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
