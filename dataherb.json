@@ -1,8 +1,18 @@
 {
   "spec": "dataherb/v2",
   "id": "city-anomalies",
-  "name": "alert",
-  "description": "One announced disruption in a big German city that parents should know about before going out.",
+  "name": "Disruptions in big German cities",
+  "description": "Announced demonstrations and marches, large police operations, bomb defusals with evacuations, transit strikes and closures in Köln, Berlin, München, Hamburg, Frankfurt am Main and Düsseldorf, collected daily from official sources (police press releases and assembly lists). Facts only, with a link to the official page.",
+  "tags": [
+    "cities",
+    "germany",
+    "demonstrations",
+    "police",
+    "transit",
+    "alerts"
+  ],
+  "owner": "spikinglabs",
+  "license": "CC-BY-4.0",
   "classification": "public",
   "update_frequency": "P1D",
   "status_job": "city-anomalies",
