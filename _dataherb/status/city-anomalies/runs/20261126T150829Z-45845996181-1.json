@@ -1,0 +1,88 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "city-anomalies",
+    "name": "Disruptions in big German cities",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "owner": "spikinglabs",
+    "tags": [
+      "cities",
+      "germany",
+      "demonstrations",
+      "police",
+      "transit",
+      "alerts"
+    ],
+    "url": "https://github.com/spikinglabs/city-anomalies"
+  },
+  "run": {
+    "id": "45845996181-1",
+    "status": "success",
+    "started_at": "2026-11-26T15:08:29Z",
+    "finished_at": "2026-11-26T15:08:41Z",
+    "duration_seconds": 12.508,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/45845996181"
+  },
+  "last_success": {
+    "id": "45845996181-1",
+    "status": "success",
+    "started_at": "2026-11-26T15:08:29Z",
+    "finished_at": "2026-11-26T15:08:41Z",
+    "duration_seconds": 12.508,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/45845996181"
+  },
+  "datasets": [
+    {
+      "id": "city-anomalies",
+      "rows": 1215
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-assemblies",
+      "status": "pass",
+      "value": 1211
+    },
+    {
+      "name": "police-duesseldorf",
+      "status": "pass",
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
+    },
+    {
+      "name": "police-frankfurt",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-hamburg",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-koeln",
+      "status": "pass",
+      "value": 2
+    }
+  ],
+  "metrics": {
+    "sources": 5,
+    "sources_failing": 0,
+    "sources_degraded": 0,
+    "records": 1215,
+    "rejections": 54,
+    "pages": 5,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.8.2"
+  },
+  "written_at": "2026-11-26T15:08:41Z"
+}
