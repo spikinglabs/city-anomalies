@@ -4,6 +4,863 @@
   "description": "Records added, changed or removed in the last 30 days, filtered by each source's rights.",
   "items": [
     {
+      "id": "rec_3d9b5f95bd3691a0f123:removed:2026-11-27T15:00:02.110076+00:00",
+      "title": "Removed: POL-K: 261119-2-K Polizei passt Einsatzplanung nach Gerichtsentscheid an - Versammlung von \"Gen Z regelt Köln\" führt durch die Innenstadt / https://www.presseportal.de/blaulicht/pm/12415/6394250",
+      "date_published": "2026-11-27T15:00:02.110076+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3d9b5f95bd3691a0f123",
+          "title": "POL-K: 261119-2-K Polizei passt Einsatzplanung nach Gerichtsentscheid an - Versammlung von \"Gen Z regelt Köln\" führt durch die Innenstadt",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6394250",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-11-19T20:37:37+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-26T15:08:41.823172+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-20T13:58:54.537222+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_63fbe4fd4a2900436e93:removed:2026-11-27T15:00:02.110076+00:00",
+      "title": "Removed: POL-K: 261120-5-K Versammlungen in Köln beendet - Friedliche Kundgebungen trotz einzelner Zwischenfälle / https://www.presseportal.de/blaulicht/pm/12415/6395070",
+      "date_published": "2026-11-27T15:00:02.110076+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_63fbe4fd4a2900436e93",
+          "title": "POL-K: 261120-5-K Versammlungen in Köln beendet - Friedliche Kundgebungen trotz einzelner Zwischenfälle",
+          "source_url": "https://www.presseportal.de/blaulicht/pm/12415/6395070",
+          "city": "Köln",
+          "kind": "police_notice",
+          "published": "2026-11-20T19:12:26+01:00",
+          "_source": {
+            "source_id": "police-koeln",
+            "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2",
+            "retrieved_at": "2026-11-26T15:08:41.823172+00:00",
+            "mode": "fields",
+            "first_seen": "2026-11-21T13:26:29.780864+00:00"
+          }
+        }
+      },
+      "url": "https://www.presseportal.de/rss/dienststelle_12415.rss2"
+    },
+    {
+      "id": "rec_36e1d6488eaf405060ea:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Trauermarsch für die durch Femizide gestorbenen Frauen / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 18:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_36e1d6488eaf405060ea",
+          "title": "Trauermarsch für die durch Femizide gestorbenen Frauen",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "18:30",
+          "end_time": "19:30",
+          "route": "Neu: Hermannplatz - Kottbusser Damm - Weserstr. - Weichselstr. - Donaustr. - Anzengruberstr. - Karl-Marx-Str. - Alfred-Scholz-Platz (EK) ALT: Hohensta- ufenplatz - Kottbusser Damm - Weserstr. - Weichselstr. - Sonnenallee - Erkstr. - Karl-Marx-Str. - Alfred-Scholz-Platz (EK) ALT: Herrmann- platz - Sonnenallee - Anzengruberstr. - Karl-Marx-Str. - Rollbergstr. - Rollbergstr. 26",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_f5eb0f98da735dea1e30:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Keine* mehr! Demonstration gegen geschlechtsspezifische - Gewalt / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 18:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f5eb0f98da735dea1e30",
+          "title": "Keine* mehr! Demonstration gegen geschlechtsspezifische - Gewalt",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "18:00",
+          "end_time": "21:00",
+          "place": "Pariser Platz 2",
+          "postcode": "10117",
+          "route": "Pariser Platz (AP) - Unter den Linden - Wilhelmstr. - Reichstagufer - Friedrichstraße - Unter den Linden - Pariser Platz (EP) Alternative Route: Pariser Platz (AP) - Unter den Linden - Neustädtische Kirchstr. - Reichstagufer - Friedrichstraße - Unter den Linden - Pariser Platz (EP)",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_d050ee491717074c34c7:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: International day against gender based violence Internationaler Tag gegen Gewalt an Frauen / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 17:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_d050ee491717074c34c7",
+          "title": "International day against gender based violence Internationaler Tag gegen Gewalt an Frauen",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "17:30",
+          "end_time": "23:00",
+          "route": "neu: Herrfurthplatz - Herrfurthstr. - Hermannstr. - Flughafenstr. - Karl-Marx-Str. - Erkstr. - Sonnenallee - Kottbusser Damm - Kottbusser Damm/Maybachufer (vor Kottbusser Brücke) alt: Herrf- urthplatz - Herrfurthstr. - Werbelliner Str. - Karl-Marx-Str. - Rathaus Neukölln - Karl-Marx-Str. - Fuldastr. - Sonnenallee - Kottbusser Damm - Kottbusser Brücke",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_ff92bdf2f6030b5ae336:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: 25. November Internationaler Tag gegen Gewalt an Frauen / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 17:15",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_ff92bdf2f6030b5ae336",
+          "title": "25. November Internationaler Tag gegen Gewalt an Frauen",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "17:15",
+          "end_time": "20:30",
+          "place": "Leopoldplatz",
+          "postcode": "13353",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_f4fa38474561a9cf0796:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Internationaler Tag gegen Gewalt an Frauen - Gedenken an die Opfer sexualisierter Gewalt vom 7. Oktober 2023 / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 17:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f4fa38474561a9cf0796",
+          "title": "Internationaler Tag gegen Gewalt an Frauen - Gedenken an die Opfer sexualisierter Gewalt vom 7. Oktober 2023",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "17:00",
+          "end_time": "20:00",
+          "place": "Platz des 18. März",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_ab62c9b3d59623a5ad1b:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: STOPPT DEN KRIEG KRIEGSVERBRECHER VOR GERICHT KEINE WAFFENLIEFERUNGEN AN ISRAEL FREIHEIT FÜR DIE PALÄSTINENSISCHEN GEFANGENEN / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 17:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_ab62c9b3d59623a5ad1b",
+          "title": "STOPPT DEN KRIEG KRIEGSVERBRECHER VOR GERICHT KEINE WAFFENLIEFERUNGEN AN ISRAEL FREIHEIT FÜR DIE PALÄSTINENSISCHEN GEFANGENEN",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "place": "Kottbusser Tor",
+          "postcode": "10999",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-24T15:50:25.046777+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_57a0b72c3f80f4570441:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Internationaler Tag gegen Gewalt an Frauen - Frieden ist unsere stärkste Selbstverteidigung / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 17:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_57a0b72c3f80f4570441",
+          "title": "Internationaler Tag gegen Gewalt an Frauen - Frieden ist unsere stärkste Selbstverteidigung",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "17:00",
+          "end_time": "17:45",
+          "route": "Martha-Ndumbe-Platz - Lindower Str. - Müllerstr. -Leopoldplatz",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_64b1cca3b2c1436df83c:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Zubringerdemo zum Tag gegen Gewalt an Frauen - NO WAR ON OUR BODIES / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 16:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_64b1cca3b2c1436df83c",
+          "title": "Zubringerdemo zum Tag gegen Gewalt an Frauen - NO WAR ON OUR BODIES",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "16:30",
+          "end_time": "17:30",
+          "route": "neu: S-Bhf. Hermannstr. - Hermannstr/Siegfriedstr (AK) - Hermannstr. - Kienitzer Str. - Schillerpromenade - Herrfurthplatz alt: - S-Bhf. Hermannstr. - Hermannstr/Siegfriedstr (AK) - Hermannstr. - Herrfurthstr. - Herrfurthplatz",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_88fe904480459bc64b97:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Kürzungen im Bereich der Kinder-, Jugend- und Familienförderung / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 16:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_88fe904480459bc64b97",
+          "title": "Kürzungen im Bereich der Kinder-, Jugend- und Familienförderung",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "place": "Karl-Marx-Str. 83",
+          "postcode": "12043",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_303258e6c499307201c2:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Menschen mit Schildern stehen wegen der aktuellen Lage, der Gesundheitsdiktatur, der Berichterstattungen der Medien, der Kriegstreiberei, der Politik, der Verfolgung Unschuldiger, der Korruption der unkontrollierten Migration, der NGO (vom 07.10. bis 30.12.2026 - jeweils Mi.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 16:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_303258e6c499307201c2",
+          "title": "Menschen mit Schildern stehen wegen der aktuellen Lage, der Gesundheitsdiktatur, der Berichterstattungen der Medien, der Kriegstreiberei, der Politik, der Verfolgung Unschuldiger, der Korruption der unkontrollierten Migration, der NGO (vom 07.10. bis 30.12.2026 - jeweils Mi.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "16:00",
+          "end_time": "17:30",
+          "place": "Marzahner Promenade",
+          "postcode": "12679",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_bb41aa9cd7bc0e494648:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Kein Krieg und keine Kriegshetze gegen Russland! NATO - Hände weg von der Ukraine und anderen Ländern, die in ihrem Fadenkreuz stehen! (vom 02.09. bis 30.12.2026 - jeweils Mi.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 15:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_bb41aa9cd7bc0e494648",
+          "title": "Kein Krieg und keine Kriegshetze gegen Russland! NATO - Hände weg von der Ukraine und anderen Ländern, die in ihrem Fadenkreuz stehen! (vom 02.09. bis 30.12.2026 - jeweils Mi.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "15:00",
+          "end_time": "16:00",
+          "place": "Pariser Platz 2",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_b08d9258431530154f6c:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Übergabe der Handlungsempfehlungen der unabhängige Experten*in- nenkomission zur Verbesserung des Schutzes von Prostitutirten / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 13:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_b08d9258431530154f6c",
+          "title": "Übergabe der Handlungsempfehlungen der unabhängige Experten*in- nenkomission zur Verbesserung des Schutzes von Prostitutirten",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "13:30",
+          "end_time": "16:30",
+          "place": "Mauerstr. 26",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-24T15:50:25.046777+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_a71daaea04dad5538ed1:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Falun Dafa ist gut! – Wahrhaftigkeit, Güte, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun- Gong-Praktiziere- nden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 07.11. bis 28.12.2026 - jeweils Mo.,Di.,Mi.,Do.,Fr.,Sa.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 13:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_a71daaea04dad5538ed1",
+          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Güte, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun- Gong-Praktiziere- nden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 07.11. bis 28.12.2026 - jeweils Mo.,Di.,Mi.,Do.,Fr.,Sa.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "place": "S-Bhf. Treptower Park",
+          "postcode": "12435",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_3ebd0193de0d52114c58:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Abrüstung statt Sozialabbau - Geld für Menschen statt für Waffen / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 13:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_3ebd0193de0d52114c58",
+          "title": "Abrüstung statt Sozialabbau - Geld für Menschen statt für Waffen",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "place": "Platz der Republik 1",
+          "postcode": "10557",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_02ee3226ed68b9b1abce:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Am 25. November findet anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen eine Aktion vor dem Rathaus Reinickendorf statt. / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 12:45",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_02ee3226ed68b9b1abce",
+          "title": "Am 25. November findet anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen eine Aktion vor dem Rathaus Reinickendorf statt.",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "12:45",
+          "end_time": "13:45",
+          "place": "Eichborndamm 215",
+          "postcode": "13437",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_0912a9d4304276a8cca4:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Menschenrechtslage im Iran – Protest gegen Hinrichtungen im Iran / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 12:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_0912a9d4304276a8cca4",
+          "title": "Menschenrechtslage im Iran – Protest gegen Hinrichtungen im Iran",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "place": "Teltower Damm 26",
+          "postcode": "14169",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-24T15:50:25.046777+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_90e80e6debe44cd0d7ef:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Gewaltfreie Psychiatrie jetzt! (vom 25.11. bis 26.11.2026,Mi.,Do.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 12:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_90e80e6debe44cd0d7ef",
+          "title": "Gewaltfreie Psychiatrie jetzt! (vom 25.11. bis 26.11.2026,Mi.,Do.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "12:00",
+          "end_time": "17:00",
+          "place": "Messedamm 26",
+          "postcode": "14055",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_47bf0240da0eaf0c3be3:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Feministische Demo in Anlehnung an internationalen Tag gegen Gewalt an Frauen / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 12:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_47bf0240da0eaf0c3be3",
+          "title": "Feministische Demo in Anlehnung an internationalen Tag gegen Gewalt an Frauen",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "12:00",
+          "end_time": "15:00",
+          "route": "(neu) Oranienplatz (AP) - Oranienstr. - links Adalbertstr - rechts Naunynstr - rechts Mariannenstr. - ZK Mariannenstr. 6 (Schokofabrik, ca. 20 min) - rechts Skalitzer Str. - Kottbusser Tor - Kottbusser Str. - Kottbusser Damm - Hermannplatz - links Karl-Marx-St. - Karl-Marx- Str. Höhe Rathaus Neukölln (EP) (alt) Oranienplatz - Schokofabrik Frauenzentrum - Kottbusser Tor - Hermannplatz - Rathaus Neukölln (ende)",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-10T13:26:28.839433+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_92951bc5a7cf3b6ade08:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Diktator Ilham Aliyev, beenden Sie die politische Repression und Folter! Freiheit für alle politischen Gefangenen! / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 11:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_92951bc5a7cf3b6ade08",
+          "title": "Diktator Ilham Aliyev, beenden Sie die politische Repression und Folter! Freiheit für alle politischen Gefangenen!",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "11:00",
+          "end_time": "15:00",
+          "place": "Werderscher Markt 1",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-24T15:50:25.046777+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_4114dca6df2e9fd3be8b:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Nein zur Hinrichtung im Iran, insbesondere der Todesstrafen gegen junge Menschen / Gedenken an die hingerichteten jungen Menschen („Tempel der Hinrichtungen“) (vom 01.10. bis 25.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 11:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_4114dca6df2e9fd3be8b",
+          "title": "Nein zur Hinrichtung im Iran, insbesondere der Todesstrafen gegen junge Menschen / Gedenken an die hingerichteten jungen Menschen („Tempel der Hinrichtungen“) (vom 01.10. bis 25.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "11:00",
+          "end_time": "15:00",
+          "place": "Podbielskiallee 67",
+          "postcode": "14195",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_364298de5817087b194a:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Flaggenhissung der landesweiten Flagge gegen Gewalt an Frauen zum internationalen Tag zur Beseitigung von Gewalt gegen Frauen und Aufstellung von Roten Schuhen, in Gedenken an alle Frauen, die durch Gewalt ihr Leben verloren haben - auf dem Parkplatz bzw. auf der Treppe des Rathaus Tempelhof. / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 11:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_364298de5817087b194a",
+          "title": "Flaggenhissung der landesweiten Flagge gegen Gewalt an Frauen zum internationalen Tag zur Beseitigung von Gewalt gegen Frauen und Aufstellung von Roten Schuhen, in Gedenken an alle Frauen, die durch Gewalt ihr Leben verloren haben - auf dem Parkplatz bzw. auf der Treppe des Rathaus Tempelhof.",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "11:00",
+          "end_time": "11:45",
+          "place": "Tempelhofer Damm 165",
+          "postcode": "12099",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_323b080e0c1ae2bad991:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 10:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_323b080e0c1ae2bad991",
+          "title": "Die Verfolgung von FALUN DAFA / FALUN-GONG Praktizierenden in China beenden, Gerechtigkeit und Wiedergutmachung für alle von der KP Verfolgte (vom 01.01. bis 31.12.2026 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "10:30",
+          "end_time": "13:00",
+          "place": "Jannowitzbrücke",
+          "postcode": "10179",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_1f2b660a5131569c4866:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Gegen Mietverdrängung durch sogenannte energetische und Luxussanierung für unverfälschte Denkmalpflege und Instandhaltung (vom 03.10. bis 02.12.2026 - jeweils Mi.,Sa.,So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 10:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_1f2b660a5131569c4866",
+          "title": "Gegen Mietverdrängung durch sogenannte energetische und Luxussanierung für unverfälschte Denkmalpflege und Instandhaltung (vom 03.10. bis 02.12.2026 - jeweils Mi.,Sa.,So.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "10:00",
+          "end_time": "18:00",
+          "place": "An der Heide 1",
+          "postcode": "13509",
+          "route": "An der Heide, Kehrwieder, Am Rosensteg, Am Brunnen - > alle 2 Stunden im Wechsel",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_52b2661e14d7ae5543aa:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Menschenrechtsverletzungen in der Psychiatrie (vom 25.11. bis 27.11.2026,Mi.,Do.,Fr.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 09:30",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_52b2661e14d7ae5543aa",
+          "title": "Menschenrechtsverletzungen in der Psychiatrie (vom 25.11. bis 27.11.2026,Mi.,Do.,Fr.)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "09:30",
+          "end_time": "20:00",
+          "place": "Messedamm 26",
+          "postcode": "14055",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_8608ed330ecf8177c145:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Flaggenhissung der landesweiten Flagge gegen Gewalt an Frauen zum internationalen Tag zur Beseitigung von Gewalt gegen Frauen und Aufstellung von Roten Schuhen, in Gedenken an alle Frauen, die durch Gewalt ihr Leben verloren haben - auf dem Parkplatz bzw. auf der Treppe des Rathaus Schönebergs. / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 09:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_8608ed330ecf8177c145",
+          "title": "Flaggenhissung der landesweiten Flagge gegen Gewalt an Frauen zum internationalen Tag zur Beseitigung von Gewalt gegen Frauen und Aufstellung von Roten Schuhen, in Gedenken an alle Frauen, die durch Gewalt ihr Leben verloren haben - auf dem Parkplatz bzw. auf der Treppe des Rathaus Schönebergs.",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "09:00",
+          "end_time": "09:45",
+          "place": "John-F.-Kennedy-Platz",
+          "postcode": "10825",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_96f2e6c6172b28d0759b:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Am internationalen Tag gegen Gewalt an Frauen wird TERRE DES FEMMES mit einer Aktion am Brandenburger Tor auf diese schwere Form von sexualisierter Gewalt aufmerksam machen, Forderungen an die Politik stellen und ein Zeichen für Solidarität mit Betroffenen setzen. #GlasklarGegenGewalt / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 08:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_96f2e6c6172b28d0759b",
+          "title": "Am internationalen Tag gegen Gewalt an Frauen wird TERRE DES FEMMES mit einer Aktion am Brandenburger Tor auf diese schwere Form von sexualisierter Gewalt aufmerksam machen, Forderungen an die Politik stellen und ein Zeichen für Solidarität mit Betroffenen setzen. #GlasklarGegenGewalt",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "08:00",
+          "end_time": "09:00",
+          "place": "Pariser Platz 1",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_15a5fca1c4380ead268f:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Streikversammlung (vom 23.11. bis 27.11.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 05:45",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_15a5fca1c4380ead268f",
+          "title": "Streikversammlung (vom 23.11. bis 27.11.2026 - täglich)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "05:45",
+          "end_time": "17:00",
+          "place": "Luisenstr. 65",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-24T15:50:25.046777+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_f88833135536e9ce6d27:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Freiheit für die politischen Gefangenen in Aserbaidschan! Dauerhafte Sitzprotestaktion. (vom 16.11. bis 26.11.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 00:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_f88833135536e9ce6d27",
+          "title": "Freiheit für die politischen Gefangenen in Aserbaidschan! Dauerhafte Sitzprotestaktion. (vom 16.11. bis 26.11.2026 - täglich)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "00:00",
+          "end_time": "23:59",
+          "place": "Werderscher Markt",
+          "postcode": "10117",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-11-20T13:58:45.016248+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
+      "id": "rec_1d590c25adb1051657da:removed:2026-11-27T14:59:52.391311+00:00",
+      "title": "Removed: Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2026-11-25 / 00:00",
+      "date_published": "2026-11-27T14:59:52.391311+00:00",
+      "_gleanyard": {
+        "change": "removed",
+        "record": {
+          "id": "rec_1d590c25adb1051657da",
+          "title": "Sitzstreik und Mahnwache für Menschenrechte im Iran, sowie für eine Neubewertung der diplomatischen Beziehungen (vom 02.10. bis 30.12.2026 - täglich)",
+          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+          "city": "Berlin",
+          "kind": "assembly",
+          "start_date": "2026-11-25",
+          "start_time": "00:00",
+          "end_time": "23:59",
+          "place": "Platz der Republik 1",
+          "postcode": "10557",
+          "_source": {
+            "source_id": "berlin-assemblies",
+            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
+            "retrieved_at": "2026-11-26T15:08:31.786303+00:00",
+            "mode": "selectors",
+            "first_seen": "2026-10-31T10:54:29.384793+00:00"
+          }
+        }
+      },
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
+    },
+    {
       "id": "rec_b8c87add6457be9aef57:removed:2026-11-26T15:08:41.826005+00:00",
       "title": "Removed: POL-K: 261119-1-K Polizei Köln bereitet sich auf Versammlungen am Freitag vor - Verkehrsstörungen erwartet / https://www.presseportal.de/blaulicht/pm/12415/6393559",
       "date_published": "2026-11-26T15:08:41.826005+00:00",
@@ -13109,876 +13966,6 @@
           "start_date": "2027-06-26",
           "start_time": "12:00",
           "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_b2f7c1c8d8187026645a:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-25 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_b2f7c1c8d8187026645a",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-25",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_c16a65553a02b3c338ba:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-24 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_c16a65553a02b3c338ba",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-24",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_93fa469edbd097d874e8:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-23 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_93fa469edbd097d874e8",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-23",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_1d83ba47834720abfdcf:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-22 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_1d83ba47834720abfdcf",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-22",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_39a735601cc98574a1cc:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-21 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_39a735601cc98574a1cc",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-21",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_7242b95146484ae0fb0a:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-20 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_7242b95146484ae0fb0a",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-20",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_855a939a7e22a582ddb5:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-19 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_855a939a7e22a582ddb5",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-19",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_068261748e49f05c975a:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-18 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_068261748e49f05c975a",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-18",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_dc48cee1de31a2c798b7:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-17 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_dc48cee1de31a2c798b7",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-17",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_2b029a8247eb1711981f:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-16 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_2b029a8247eb1711981f",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-16",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_ab7972d2ccfc1f0dbefe:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-15 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_ab7972d2ccfc1f0dbefe",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-15",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_a29ff6a48c4f79fa8095:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-14 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_a29ff6a48c4f79fa8095",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-14",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_3e1a5678cddcf5228f0b:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-13 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_3e1a5678cddcf5228f0b",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-13",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_d75b5be35148380a8e28:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-12 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_d75b5be35148380a8e28",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-12",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_3d30be90e8b6cd88eaf1:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-11 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_3d30be90e8b6cd88eaf1",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-11",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_e59fe2f32bed86358749:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-10 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_e59fe2f32bed86358749",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-10",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_61d8637c2018806e2db3:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-09 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_61d8637c2018806e2db3",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-09",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_7198bceeb23152b922f3:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Demonstration OMAS GEGEN RECHTS Südwest gegen Querdenker, Verschwörungstheoretiker und rechte Populisten / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-08 / 17:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_7198bceeb23152b922f3",
-          "title": "Demonstration OMAS GEGEN RECHTS Südwest gegen Querdenker, Verschwörungstheoretiker und rechte Populisten",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-08",
-          "start_time": "17:00",
-          "end_time": "18:30",
-          "place": "Schloßstr.",
-          "postcode": "12163",
-          "route": "2. Versammlungsort Schloßstraße Ecke Kieler Straße",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_80ce0aedd616bbdaef3a:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-08 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_80ce0aedd616bbdaef3a",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-08",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_95f88e879cd9bcea695c:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-07 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_95f88e879cd9bcea695c",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-07",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_1e3b0904e3e18e9d3c72:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-06 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_1e3b0904e3e18e9d3c72",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-06",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_26b8f5bd3cab9a303feb:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-05 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_26b8f5bd3cab9a303feb",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-05",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_e797fb9bd75f0698dfa9:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-04 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_e797fb9bd75f0698dfa9",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-04",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_6c6260c6893059dd4b7a:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Legalisierung ohne wenn und aber! / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-03 / 16:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_6c6260c6893059dd4b7a",
-          "title": "Legalisierung ohne wenn und aber!",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-03",
-          "start_time": "16:00",
-          "end_time": "19:00",
-          "place": "Masurenallee 8",
-          "postcode": "14057",
-          "route": "Start: Kantstraße / Ecke Breitscheidplatz Demoro- ute: Kantstraße - Joachimsthaler Straße - Kurfürstendamm - Lewishamstraße - Kantstraße - Neue Kantstraße - Masurenallee (bis vor RBB)",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_26375e2bac8d98d0ee47:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-03 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_26375e2bac8d98d0ee47",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-03",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_5f48c3d4d90281a62ab4:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-02 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_5f48c3d4d90281a62ab4",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-02",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_8ef7d9ecf0e857c87588:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-06-01 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_8ef7d9ecf0e857c87588",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-06-01",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_172220f36321dd4f9e81:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-05-31 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_172220f36321dd4f9e81",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-05-31",
-          "start_time": "10:30",
-          "end_time": "13:00",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_e893afb3d8453e9e09ab:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-05-30 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_e893afb3d8453e9e09ab",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-05-30",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_9f93e60ec18727e72c59:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-05-29 / 12:00",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_9f93e60ec18727e72c59",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-05-29",
-          "start_time": "12:00",
-          "end_time": "14:30",
-          "place": "Jannowitzbrücke",
-          "postcode": "10179",
-          "_source": {
-            "source_id": "berlin-assemblies",
-            "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-            "retrieved_at": "2026-11-20T13:58:45.016248+00:00",
-            "mode": "selectors",
-            "first_seen": "2026-11-20T13:58:45.016248+00:00"
-          }
-        }
-      },
-      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/"
-    },
-    {
-      "id": "rec_0c7313c32e1f985166fd:added:2026-11-20T13:58:45.528747+00:00",
-      "title": "Added: Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.) / https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/ / 2027-05-28 / 10:30",
-      "date_published": "2026-11-20T13:58:45.528747+00:00",
-      "_gleanyard": {
-        "change": "added",
-        "record": {
-          "id": "rec_0c7313c32e1f985166fd",
-          "title": "Falun Dafa ist gut! – Wahrhaftigkeit, Barmherzigkeit, Nachsicht sind gut! Stoppt die Verfolgung von Falun Gong in China durch die bösartige Kommunistische Partei Chinas! Stoppt den staatlich organisierten Organraub an Falun Gong-Praktizierenden! Tuidang – Schnell austreten aus allen Organisationen der KP-Chinas! (vom 01.01. bis 31.12.2027 - jeweils Mo., Di., Mi., Do., Fr., Sa., So.)",
-          "source_url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/versammlungen-aufzuege/",
-          "city": "Berlin",
-          "kind": "assembly",
-          "start_date": "2027-05-28",
-          "start_time": "10:30",
-          "end_time": "13:00",
           "place": "Jannowitzbrücke",
           "postcode": "10179",
           "_source": {
