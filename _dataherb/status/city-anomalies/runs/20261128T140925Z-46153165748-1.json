@@ -1,0 +1,90 @@
+{
+  "spec": "dataherb.status/v1",
+  "job": {
+    "id": "city-anomalies",
+    "name": "Disruptions in big German cities",
+    "orchestrator": "github-actions",
+    "expected_interval": "P1D",
+    "owner": "spikinglabs",
+    "tags": [
+      "cities",
+      "germany",
+      "demonstrations",
+      "police",
+      "transit",
+      "alerts"
+    ],
+    "url": "https://github.com/spikinglabs/city-anomalies"
+  },
+  "run": {
+    "id": "46153165748-1",
+    "status": "success",
+    "started_at": "2026-11-28T14:09:25Z",
+    "finished_at": "2026-11-28T14:09:37Z",
+    "duration_seconds": 11.919,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/46153165748"
+  },
+  "last_success": {
+    "id": "46153165748-1",
+    "status": "success",
+    "started_at": "2026-11-28T14:09:25Z",
+    "finished_at": "2026-11-28T14:09:37Z",
+    "duration_seconds": 11.919,
+    "attempt": 1,
+    "trigger": "schedule",
+    "url": "https://github.com/spikinglabs/city-anomalies/actions/runs/46153165748"
+  },
+  "datasets": [
+    {
+      "id": "city-anomalies",
+      "rows": 1164
+    }
+  ],
+  "checks": [
+    {
+      "name": "berlin-assemblies",
+      "status": "pass",
+      "value": 1163
+    },
+    {
+      "name": "police-duesseldorf",
+      "status": "pass",
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
+    },
+    {
+      "name": "police-frankfurt",
+      "status": "pass",
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
+    },
+    {
+      "name": "police-hamburg",
+      "status": "pass",
+      "value": 1
+    },
+    {
+      "name": "police-koeln",
+      "status": "pass",
+      "value": 0,
+      "message": "ok: no records, as expected for a seasonal source"
+    }
+  ],
+  "metrics": {
+    "sources": 5,
+    "sources_failing": 0,
+    "sources_degraded": 0,
+    "records": 1164,
+    "rejections": 102,
+    "pages": 5,
+    "model_calls": 0,
+    "cost_eur": 0.0
+  },
+  "producer": {
+    "name": "gleanyard",
+    "version": "0.8.2"
+  },
+  "written_at": "2026-11-28T14:09:37Z"
+}
